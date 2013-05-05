@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Thief</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Power? Freedom? Fame? Joy? Forests of trees. You know the one thing that can get you all of them in one go? Course you do. The clink of ceramic in your pocket, the sparkle of jewels in your vault. Money is the key to surviving Athas, and it’s all yours for the taking.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Power? Freedom? Fame? Joy? You know the one thing that can get you all of them in one go? Course you do. The clink of ceramic in your pocket, the sparkle of jewels in your vault. Money is the key to surviving Athas, and it’s all yours for the taking.</p></div>
 <h2>Names</h2>
 <div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Bademyr, Cyne, Deryssa, Dylauris, Faenaeyon, Kalihana, Shiral, Raffaella</p>
 <p aid:pstyle="NoIndent"><em>Human</em>: Azzer, Bartras, Camla, Dornal, Dote, Jaseela, Jurthas, Korla, Niscret, Sizzkus</p>
@@ -55,8 +55,8 @@
 <p aid:pstyle="NoIndent">Shift danger or blame from yourself to someone else.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your load is 9+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), 3 uses of your chosen poison, and 10 coins. Choose your arms:</p>
-<ul><li aid:pstyle="Option">Dagger (hand, 1 weight) and short sword (close, 1 weight)</li>
-<li aid:pstyle="Option">Rapier (close, precise, 1 weight)</li></ul>
+<ul><li aid:pstyle="Option">Wrist Razor (hand, 1 weight) and Widow’s Knife (close, thrown, 1 weight)</li>
+<li aid:pstyle="Option">Tortoise Blade (close, precise, +1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a ranged weapon:</p>
 <ul><li aid:pstyle="Option">3 throwing daggers (thrown, near, 0 weight)</li>
 <li aid:pstyle="Option">Ragged Bow (near, 2 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul>
