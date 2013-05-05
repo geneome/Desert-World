@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="dungeon-world-class.xsl"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>The Psion</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Many choose to focus on a single aspect of themselves, specializing in physical, spiritual, or mental persuits. Even if they master one, they are still blind in the other two. You are a master of the Way, a nexus where the physical, spiritual, and mental meet.</p>
+<p>The Psion sees the world as an extension of himself, where others see a dagger you see an extension of yourself, where others see a foe, you see a will to to command, where others see far, you see all places.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent"><em>Halfling</em>: Cha, La, Nok, Tar, Ulk, Rel, Tak, Nar</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Baldric, Leena, Dunwick, Willem, Edwyn, Florian, Seraphine, Quorra, Charlotte, Lily, Ramonde, Cassandra</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Haunted Eyes, Dreamy Eyes, or Alien Eyes</p>
+<p aid:pstyle="NoIndent">Straight Hair, Wild Hair, or No Hair</p>
+<p aid:pstyle="NoIndent">Honest Smile, Sly Smile, Knowing Smile</p>
+<p aid:pstyle="NoIndent">Neglected Body, Sculpted Body, or Well-fed Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 6+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Halfling</h3>
+<p aid:pstyle="NoIndent">You can read someone's works as well as the one who made them.
+You may Discern Realities about someone simply by touching something they've made, be it an item, a place, or an offspring.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">Your ability to read minds has been honed to near-paranoid perfection. When you <strong>Defy Danger against a foe whose mind you can read</strong>, take +1 forward.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">Expanded Consciouness</h3>
+<p aid:pstyle="NoIndent">When you <strong>reflect on the interconnectedness of all things</strong>, lose your remaining focus and gain 3 focus. Your maximum focus is 3. You may spend focus, one for one, to:</p>
+<ul><li>Manipulate small objects, no heavier than weight 1 and no further than Near range, as if with your own hands.</li>
+<li>Establish telepathic contact with someone you touch, skin to skin, for up to an hour.</li>
+<li>Have a brief vision of the imminent future, as if you had Discerned Realities and asked, "What is about to happen?" Take +1 forward when acting on the answer.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Telekinetic Strike (WIS)</h3>
+<p aid:pstyle="NoIndent"><strong>When you attack with telekinetic force<strong>, roll +Wis. ✴On a 10+, deal your damage. ✴On a 7-9, deal your damage, but choose 1:</p>
+<ul><li>You expose yourself or an ally to danger.</li>
+<li>Something near your target is destroyed by the blast - the GM will tell you what.</li>
+<li>You're overwhelmed with psychic feedback, stunning you for a moment.</li></ul>
+<p aid:pstyle="NoIndent">Your Telekinetic Strike is a weapon with the tags Near, Forceful, and Messy.</p>
+<h3 aid:pstyle="BasicMoveName">The Heart's Sorrow (WIS)</h3>
+<p aid:pstyle="NoIndent"><strong>When you look into someone's heart in search of a secret</strong>, roll +Wis. ✴On a 10+, choose two. ✴On a 7-9, choose one:</p>
+<ul><li>The secret is presented with greater context.</li>
+<li>The secret is something you could possibly know otherwise, however unlikely that might be.</li>
+<li>The secret can easily be used to gain leverage for Parley.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Peer Through the Veil</h3>
+<p aid:pstyle="NoIndent">You perceive phenomena invisible to mortal eyes: visible manifestations of emotions, astral creatures which prey invisibly on mortals and signs of great and terrible things yet to come. You have little choice in what you see, but you can interact with these things as well as you can interact with anything else.</p></div></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Settle a conflict through understanding.</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Forge a new connection between two people.</p>
+<h3 aid:pstyle="MoveName">Chaotic</h3>
+<p aid:pstyle="NoIndent">Upset a relationship to see what happens.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7 + Str. You start with dungeon rations (5 uses, 1 weight), bandages (3 uses, slow, 0 weight), and a memento of someone once dear to you.</p>
+<p aid:pstyle="NoIndent">Choose your clothing:</p>
+<ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
+<li aid:pstyle="Option">Ornate clothes (0 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose your armament:</p>
+<ul><li aid:pstyle="Option">Dagger (hand, 1 weight)</li>
+<li aid:pstyle="Option">Sturdy divination instrument (close, 1 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li>Adventuring gear (1 weight)</li>
+<li>Bandages (0 weight)</li>
+<li>Bellaweed (0 weight)</li>
+<li>3 coins</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________'s soul is so bright it almost hurts to see.</p>
+<p>When _______________ opens up, they'll be so much happier.</p>
+<p>I have shown my heart to _______________.</p>
+<p>I suspect _______________ is afraid of me.</p>
+<p>I have seen the dreams of _______________ and they are eerie things indeed.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">A Wall Between Two Gardens</h3>
+<p aid:pstyle="NoIndent">When you <strong>Parley with someone you have touched - skin to skin or with an act of kindness or cruelty</strong> - you may roll +WIS instead of +CHA.</p>
+<h3 aid:pstyle="MoveName">Be Not Daunted Thereby...</h3>
+<p aid:pstyle="NoIndent">When you <strong>mentally command a creature to obey a simple order</strong>, roll +Wis. ✴On a 10+, they will act on your suggestion, though their actions are tempered by their own feelings on the matter. ✴On a 7-9, the command takes hold, but it's fleeting. ✴On a miss, they know someone is forcing thoughts into their head, and will react accordingly.</p>
+<h3 aid:pstyle="MoveName">Oracle of Hypnos</h3>
+<p aid:pstyle="NoIndent">When you <strong>enjoy a full night's sleep without interruption</strong>, ask a question about a person, a place, or an event. Then roll (just roll, no bonus). ✴On a 10+, your dreams answer the question in a vivid and clear fashion; take +1 forward to act on what you've seen. ✴On a 7-9, the vision is guarded and symbolic. ✴On a miss, the vision is hostile and strange; take -1 forward because of it.</p>
+<h3 aid:pstyle="MoveName">Soul's Armor</h3>
+<p aid:pstyle="NoIndent">As long as you have at least 1 Focus, you have 2 Armor.</p>
+<h3 aid:pstyle="MoveName">Spell for a Weak Heart</h3>
+<p aid:pstyle="NoIndent">Add the following option to The Heart's Sorrow:</p>
+<ul><li>You find a secret pain in their heart. You take +1 forward when you act on their pain until it is resolved, one way or the other.</li></ul>
+<h3 aid:pstyle="MoveName">Submission to Leaders, Hostility to Outsiders</h3>
+<p aid:pstyle="NoIndent">You take +1 to rolls to Recruit hirelings.</p>
+<h3 aid:pstyle="MoveName">Sword of the Mind</h3>
+<p aid:pstyle="NoIndent">Your Telekinetic Strike gains the +1 damage tag, and also one of the following:</p>
+<ul><li>Piercing 1</li>
+<li>Subtle</li>
+<li>Elemental (Fire, Cold, or Electric)</li></ul>
+<h3 aid:pstyle="MoveName">There is Nothing Hidden</h3>
+<p aid:pstyle="NoIndent">Choose a question other than "What is about to happen?" from the Discern Realities list when you take this move. You may spend 1 Focus to ask it at any time.</p>
+<h3 aid:pstyle="MoveName">Touch of Agony</h3>
+<p aid:pstyle="NoIndent">Your body is a weapon and shares tags with your Telekinetic Strike, except at Hand range rather than Near range. When you <strong>Hack and Slash with this weapon</strong>, you may roll +WIS instead of +STR.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">In My Secret Mind</h3>
+<p aid:pstyle="NoIndent">When you <strong>use Expanded Consciousness</strong>, you gain 4 Focus. Your maximum Focus is 4.</p>
+<h3 aid:pstyle="MoveName">...Nor Terrified, Nor Awed</h3>
+<p aid:pstyle="Requirement">Requires: Be Not Daunted Thereby...</p>
+<p aid:pstyle="NoIndent">When you <strong>stand in defense of someone you hold a bond with</strong>, you may roll +Wis instead of +Con.</p>
+<h3 aid:pstyle="MoveName">Call Forth the Soul Guardian</h3>
+<p aid:pstyle="NoIndent">When you <strong>bare your heart and name a person close to you</strong> you create an eidolon, a potent creature of psychic energy, to embody that relation. The eidolon persists only a few minutes, and you can only maintain one at a time. Roll+Bonds with that person. ✴On a 10+, you gain 3 hold, and the eidolon glows with radiant beauty. ✴On a 7-9, you gain 2 hold. ✴On a miss, you gain 2 hold anyway, but the eidolon is dark and twisted; after this hold is spent, it will turn on you. Either you or the chosen companion can spend hold on the following:</p>
+<ul><li>When one of you deals damage, deal +1d6 damage.</li>
+<li>When one of you takes damage, the eidolon prevents that damage.</li>
+<li>When one of you Aids the other, automatically take the 10+ result.</li></ul>
+<h3 aid:pstyle="MoveName">Mindjack</h3>
+<p aid:pstyle="Requirement">Replaces: Imp of the Perverse</p>
+<p aid:pstyle="NoIndent">When you <strong>mentally force a target to obey a simple order</strong>, roll+Wis. ✴On a 10+, they obey your command to the best of their ability. ✴On a 7-9, choose one:</p>
+<ul><li>They obey the command, but the execution leaves something to be desired.</li>
+<li>They do not obey your command, but they are briefly stunned by the mental intrusion.</li></ul>
+<p aid:pstyle="NoIndent">✴On a miss, they know the face of the one who tried to take their body from them, and will react accordingly.</p>
+<h3 aid:pstyle="MoveName">Perfect Destroying Force</h3>
+<p aid:pstyle="Requirement">Requires: Sword of the Mind</p>
+<p aid:pstyle="NoIndent">When you <strong>blast a target with telekinetic force and roll 10+</strong>, choose one:</p>
+<ul><li>You also strike a second nearby enemy.</li>
+<li>Take +1 forward against the damaged enemy.</li></ul>
+<h3 aid:pstyle="MoveName">Reality Revision</h3>
+<p aid:pstyle="NoIndent">When you draw upon a place of power to alter reality, tell the GM what you're trying to achieve. The GM will say "yes, but" and one to four of the following:</p>
+<ul><li>It's going to take days/weeks/months of intense concentration</li>
+<li>First you must find ______</li>
+<li>You'll have to forge a deep connection with ______</li>
+<li>It will require many more people wishing for it</li>
+<li>The best you can do is a similar version, close but not quite what you wanted</li>
+<li>You and your allies will risk danger from ______</li>
+<li>The revision will take place gradually</li></ul>
+<h3 aid:pstyle="MoveName">Soul's Bastion</h3>
+<p aid:pstyle="Requirement">Replaces: Soul's Armor</p>
+<p aid:pstyle="NoIndent">As long as you <strong>have at least 1 Focus, you have 3 Armor</strong>, and when you <strong>would Defy Danger with +Con</strong>, you may Defy Danger with +Wis instead.</p>
+<h3 aid:pstyle="MoveName">The Parting of the Veil</h3>
+<p aid:pstyle="NoIndent">As long as they <strong>are within speaking distance of you</strong>, you may share the effects of Peer Through The Veil with anyone you choose.</p>
+<h3 aid:pstyle="MoveName">Waking Nightmare</h3>
+<p aid:pstyle="NoIndent">When you <strong>telepathically interfere with a target's senses, roll+Wis</strong>. ✴On a 10+, the target's senses are wholly overridden - gripped by hallucination, scrambled to uselessness, or entirely cut off - for several seconds. ✴On a 7-9, the target is merely disoriented and confused.</p>
+<h3 aid:pstyle="MoveName">Watchtower of Hypnos</h3>
+<p aid:pstyle="Requirement">Requires: Oracle of Hypnos</p>
+<p aid:pstyle="NoIndent">When you <strong>use Oracle of Hypnos while you have Focus</strong>, choose someone you share a Bond with. You may roll+Bonds instead of +nothing. When you do, that person shares your oracular dreams and all their effects.</p></div></Body></Root>
