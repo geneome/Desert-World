@@ -1,42 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Druid</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Cast your eyes around the fire. What has brought you to these people, stinking of the dust and sweat of the city? Perhaps it is a kindness—do you protect them as the mother bear watches over her cubs? Are they your pack, now? Strange brothers and sisters you have. Whatever your inspiration, they would certainly fail without your sharp senses and sharper claws.</p>
-<p>You are of the sacred spaces; you are born of soil and wear the marks of her spirits on your skin. You may have had a life before, maybe you were a city dweller like them, but not now. You’ve given up that static shape. Listen to your allies pray to their carved stone gods and polish their silver shells. They speak of the glory they’ll find back in that festering town you left behind.</p>
-<p>Their gods are children, their steel is false protection. You walk the old ways, you wear the pelts of the earth itself. You’ll take your share of the treasure, but will you ever walk as one of them? Only time will tell.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Athas is as pure a world as ever there was. Let the soft folk of the city-states cower under the yoke of the Sorcerer-Kings. Let the mad prophets babble about the kinder world that once was. You know the truth: Athas is nature unfettered, all the lies and hypocrisies of civilization laid bare like the throat of a defeated foe. You, druid, will be the teeth that close on that throat.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Hycorax, Ethanwe, Sinathel, Demanor, Menoliir, Mithralan, Taeros, Aegor</p>
-<p aid:pstyle="NoIndent"><em>Halfling</em>: Tanner, Dunstan, Rose, Ivy, Robard, Mab, Thistle, Puck, Anne, Serah</p>
-<p aid:pstyle="NoIndent"><em>Human</em>: Elana, Obelis, Herran, Syla, Andanna, Siobhan, Aziz, Pelin, Sibel, Nils, Wei</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Alaa, Botuu, Duukodo, Ekee, Hukaa, Jaarati, Luubarra, Quaar, Traako</p>
+<p aid:pstyle="NoIndent"><em>Halfling</em>: Cha, La, Nok, Tar, Ulk, Rel, Tak, Nar</p>
+<p aid:pstyle="NoIndent"><em>Thri-kreen</em>: Thri-Kreen: Chkakk-a-kakk, Ktch’trik, Kk’kkik, Tk’tak, Kik’chk’klk</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Wise Eyes, Wild Eyes, or Haunting Eyes</p>
-<p aid:pstyle="NoIndent">Furry Hood, Messy Hair, or Braided Hair</p>
-<p aid:pstyle="NoIndent">Ceremonial Garb, Practical Leathers, or Weathered Hides</p></div>
+<p aid:pstyle="NoIndent">Leather Hood, Messy Hair, or Braided Hair</p>
+<p aid:pstyle="NoIndent">Ceremonial Garb, Practical Leathers, or Bizarre Hides</p></div>
 <h2>Stats</h2>
 <p aid:pstyle="NoIndent">Your maximum HP is 6+Constitution.</p>
 <p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d6</span>.</p>
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">The sap of the elder trees flows within you. In addition to any other attunements, the Great Forest is always considered your land.</p>
-<h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">As your people learned to bind animals to field and farm, so too are you bound to them. You may always take the shape of any domesticated animal, in addition to your normal options.</p>
+<p aid:pstyle="NoIndent">The sand of the wastes flows within you. In addition to any other attunements, the Sandy Wastes are always considered your land.</p>
 <h3 aid:pstyle="MoveName">Halfling</h3>
 <p aid:pstyle="NoIndent">You sing the healing songs of spring and brook. When you make camp, you and your allies heal +1d6.</p></div>
+<h3 aid:pstyle="MoveName">Thri-kreen</h3>
+<p aid:pstyle="NoIndent">You are a priest of the great hunt. Eating an animal in its entirety counts as studying its essence.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <div id="BornoftheSoil"><h3 aid:pstyle="BasicMoveName">Born of the Soil</h3>
 <p aid:pstyle="NoIndent">You learned your magic in a place whose spirits are strong and ancient and they’ve marked you as one of their own. No matter where you go, they live within you and allow you to take their shape. Choose one of the following. It is the land to which you are attuned—when shapeshifting you may take the shape of any animal who might live in your Land.</p>
-<ul><li aid:pstyle="Option">The Great Forests</li>
-<li aid:pstyle="Option">The Whispering Plains</li>
-<li aid:pstyle="Option">The Vast Desert</li>
-<li aid:pstyle="Option">The Stinking Mire</li>
-<li aid:pstyle="Option">The River Delta</li>
-<li aid:pstyle="Option">The Depths of the Earth</li>
-<li aid:pstyle="Option">The Sapphire Islands</li>
-<li aid:pstyle="Option">The Open Sea</li>
-<li aid:pstyle="Option">The Towering Mountains</li>
-<li aid:pstyle="Option">The Frozen North</li>
-<li aid:pstyle="Option">The Blasted Wasteland</li></ul>
+<ul><li aid:pstyle="Option">Stony Barrens</li>
+<li aid:pstyle="Option">Sandy Wastes</li>
+<li aid:pstyle="Option">Rocky Badlands</li>
+<li aid:pstyle="Option">Salt Flats</li>
+<li aid:pstyle="Option">Silt Sea</li>
+<li aid:pstyle="Option">Mountains</li>
+<li aid:pstyle="Option">Scrub Plains</li>
+<li aid:pstyle="Option">Verdant Belts</li>
+<li aid:pstyle="Option">Forest</li></ul>
 <p aid:pstyle="NoIndent">Chose a tell—a physical attribute that marks you as born of the soil—that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.</p></div>
 <div id="ByNatureSustained"><h3 aid:pstyle="BasicMoveName">By Nature Sustained</h3>
 <p aid:pstyle="NoIndent">You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.</p></div>
@@ -66,7 +62,7 @@ Choose your armament:
 Choose one:
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Poultices and herbs (2 uses, 1 weight)</li>
-<li aid:pstyle="Option">Halfling pipeleaf (0 weight)</li>
+<li aid:pstyle="Option">Bellaweed  (0 weight)</li>
 <li aid:pstyle="Option">3 antitoxin (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
@@ -84,7 +80,7 @@ Choose one:
 <p aid:pstyle="NoIndent">When <strong>you spend time in a place, making note of its resident spirits and calling on the spirits of the land</strong>, roll+Wis. You will be granted a vision of significance to you, your allies, and the spirits around you. ✴On a 10+ the vision will be clear and helpful to you. ✴On a 7–9 the vision is unclear, its meaning murky. ✴On a miss, the vision is upsetting, frightening, or traumatizing. The GM will describe it. Take -1 forward.</p>
 <h3 aid:pstyle="MoveName">Barkskin</h3>
 <p aid:pstyle="NoIndent">So long as your feet touch the ground you have +1 armor.</p>
-<h3 aid:pstyle="MoveName">Eyes of the Tiger</h3>
+<h3 aid:pstyle="MoveName">Eyes of the Tigone</h3>
 <p aid:pstyle="NoIndent">When you mark an animal (with mud, dirt, or blood) you can see through that animal’s eyes as if they were your own, no matter what distance separates you. Only one animal at a time may be marked in this way.</p>
 <h3 aid:pstyle="MoveName">Shed</h3>
 <p aid:pstyle="NoIndent">When you <strong>take damage while shapeshifted</strong> you may choose to revert to your natural form to negate the damage.</p>
