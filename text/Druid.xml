@@ -56,9 +56,10 @@
 <ul><li aid:pstyle="Option">Hide armor (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Wooden shield (+1 armor, 1 weight)</li></ul>
 Choose your armament:
-<ul><li aid:pstyle="Option">Shillelagh (close, 2 weight)</li>
+<ul><li aid:pstyle="Option">Datchi club (close, 2 weight)</li>
 <li aid:pstyle="Option">Staff (close, two-handed, 1 weight)</li>
-<li aid:pstyle="Option">Spear (close, thrown, near, 1 weight)</li></ul>
+<li aid:pstyle="Option">Spear (close, thrown, near, 1 weight)</li>
+<li aid:pstyle="Option">Gythka (close, reach, two-handed, 2 weight) and 3 chatchkas (thrown, near, return, 1 weight each)</li></ul>
 Choose one:
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Poultices and herbs (2 uses, 1 weight)</li>
