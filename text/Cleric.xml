@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>The Cleric</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">The lands of Dungeon World are a gods-forsaken mess. They’re lousy with the walking dead, beasts of all sorts, and the vast unnatural spaces between safe and temple-blessed civilizations. It is a godless world out there. That’s why it needs you.</p>
-<p>Bringing the glory of your god to the heathens isn’t just in your nature—it’s your calling. It falls to you to proselytize with sword and mace and spell. To cleave deep into the witless heart of the wilds and plant the seed of divinity there. Some say that it is best to keep god close to your heart. You know that’s rubbish. God lives at the edge of a blade.
-Show the world who is lord.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Maybe the gods loved Athas once. If so, that love wasn’t enough to save them from burning to dust and ash with the rest of this forsaken world. Where once you might have communed with a caring, benevolent deity, now you eke out divine power from one of the raw, primal elements of creation. Maybe you name it, try to ascribe a will and a desire to fire or water, earth or air. Maybe you sing its praises, but while it may come when you call it, you know one truth in your heart of hearts:</p>
+<p>It does not love you.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Dwarf</em>: Durga, Aelfar, Gerda, Rurgosh, Bjorn, Drummond, Helga, Siggrun, Freya</p>
-<p aid:pstyle="NoIndent"><em>Human</em>: Wesley, Brinton, Jon, Sara, Hawthorn, Elise, Clarke, Lenore, Piotr, Dahlia, Carmine</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Dwarf</em>: Lyanius, Portek, Hai, Fyra, Lazra, N’kadir, Sa’ram, Lodo</p>
+<p aid:pstyle="NoIndent"><em>Human</em>: Canth, Clavis, E’la, Maetan, Narissa, Nanda, Ramphion, Sacha, Terrik</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Kind Eyes, Sharp Eyes, or Sad Eyes</p>
@@ -22,8 +21,8 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Human</h3>
 <p aid:pstyle="NoIndent">Your faith is diverse. Choose one wizard spell. You can cast and be granted that spell as if it was a cleric spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
-<div id="Deity"><h3 aid:pstyle="BasicMoveName">Deity</h3>
-<p aid:pstyle="NoIndent">You serve and worship some deity or power which grants you spells. Give your god a name (maybe Helferth, Sucellus, Zorica or Krugon the Bleak) and choose your deity’s domain:</p>
+<div id="Deity"><h3 aid:pstyle="BasicMoveName">Element</h3>
+<p aid:pstyle="NoIndent">You serve and worship an element or paraelement which grants you spells. Choose your element (Earth, Air, Fire, Water) or paraelement (Silt, Sun, Magma, Rain) and choose its domain:</p>
 <ul><li aid:pstyle="Option">Healing and Restoration</li>
 <li aid:pstyle="Option">Bloody Conquest</li>
 <li aid:pstyle="Option">Civilization</li>
@@ -31,36 +30,37 @@ Show the world who is lord.</p></div>
 <li aid:pstyle="Option">The Downtrodden and Forgotten</li>
 <li aid:pstyle="Option">What Lies Beneath</li></ul>
 <p aid:pstyle="NoIndent">Choose one precept of your religion:</p>
-<ul><li aid:pstyle="Option">Your religion preaches the sanctity of suffering, add Petition: Suffering</li>
-<li aid:pstyle="Option">Your religion is cultish and insular, add Petition: Gaining Secrets</li>
-<li aid:pstyle="Option">Your religion has important sacrificial rites, add Petition: Offering</li>
-<li aid:pstyle="Option">Your religion believes in trial by combat, add Petition: Personal Victory</li></ul></div>
-<div id="DivineGuidance"><h3 aid:pstyle="BasicMoveName">Divine Guidance</h3>
-<p aid:pstyle="NoIndent">When you <strong>petition your deity according to the precept of your religion</strong>, you are granted some useful knowledge or boon related to your deity’s domain. The GM will tell you what.</p></div>
+<ul><li aid:pstyle="Option">Your religion is devoted to spreading your sacred element across Athas, add Petition: Expanding your sacred element.</li>
+<li aid:pstyle="Option">Your religion teaches that only through deprivation can enlightenment be had, add Petition: Asceticism.</li>
+<li aid:pstyle="Option">Your religion demands that blood be spilled in the name of your sacred element, add Petition: Living Sacrifices.</li>
+<li aid:pstyle="Option">Your sacred element communes with you through ecstatic visions, add Petition: Madness.</li>
+<li aid:pstyle="Option">Your religion is evangelical, add Petition: Conversion.</li></ul></div>
+<div id="DivineGuidance"><h3 aid:pstyle="BasicMoveName">Elemental Guidance</h3>
+<p aid:pstyle="NoIndent">When you <strong>petition your element according to the precept of your religion</strong>, you are granted some useful knowledge or boon related to your element’s domain. The GM will tell you what.</p></div>
 <div id="TurnUndead"><h3 aid:pstyle="BasicMoveName">Turn Undead</h3>
-<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft and call on your deity for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.</p></div>
+<p aid:pstyle="NoIndent">When you <strong>hold your holy symbol aloft and call on your element for protection</strong>, roll+Wis. ✴On a 7+, so long as you continue to pray and brandish your holy symbol, no undead may come within reach of you. ✴On a 10+, you also momentarily daze intelligent undead and cause mindless undead to flee. Aggression breaks the effects and they are able to act as normal. Intelligent undead may still find ways to harry you from afar. They’re clever like that.</p></div>
 <div id="Commune"><h3 aid:pstyle="BasicMoveName">Commune</h3>
-<p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your deity</strong>, you:</p>
+<p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet communion with your element</strong>, you:</p>
 <ul><li>Lose any spells already granted to you.</li>
 <li>Are granted new spells of your choice whose total levels don’t exceed your own level+1, and none of which is a higher level than your own level.</li>
 <li>Prepare all of your rotes, which never count against your limit.</li></ul></div>
 <div id="CastASpell"><h3 aid:pstyle="BasicMoveName">Cast a Spell</h3>
-<p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your deity</strong>, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:</p>
+<p aid:pstyle="NoIndent">When you <strong>unleash a spell granted to you by your element</strong>, roll+Wis. ✴On a 10+, the spell is successfully cast and your deity does not revoke the spell, so you may cast it again. ✴On a 7–9, the spell is cast, but choose one:</p>
 <ul><li>You draw unwelcome attention or put yourself in a spot. The GM will tell you how.</li>
-<li>Your casting distances you from your deity—take -1 ongoing to cast a spell until the next time you commune.</li>
-<li>After you cast it, the spell is revoked by your deity. You cannot cast the spell again until you commune and have it granted to you.</li></ul>
+<li>Your casting distances you from your element—take -1 ongoing to cast a spell until the next time you commune.</li>
+<li>After you cast it, the spell is revoked by your element. You cannot cast the spell again until you commune and have it granted to you.</li></ul>
 <p aid:pstyle="NoIndent">Note that maintaining spells with ongoing effects will sometimes cause a penalty to your roll to cast a spell.</p></div></div></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
 <p aid:pstyle="NoIndent">Endanger yourself to heal another.</p>
-<h3 aid:pstyle="MoveName">Lawful</h3>
-<p aid:pstyle="NoIndent">Endanger yourself following the precepts of your church or god.</p>
+<h3 aid:pstyle="MoveName">Chaotic</h3>
+<p aid:pstyle="NoIndent">Spread your sacred element without care for the consequences.</p>
 <h3 aid:pstyle="MoveName">Evil</h3>
-<p aid:pstyle="NoIndent">Harm another to prove the superiority of your church or god.</p></div>
+<p aid:pstyle="NoIndent">Harm another to prove the superiority of your element.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of the divine, describe it (0 weight). Choose your defenses:</p>
-<ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight)</li>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of your element, describe it (0 weight). Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Chitin mail (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
 <ul><li aid:pstyle="Option">Warhammer (close, 1 weight)</li>
@@ -68,10 +68,10 @@ Show the world who is lord.</p></div>
 <li aid:pstyle="Option">Staff (close, two-handed, 1 weight) and bandages (0 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (5 uses, 1 weight)</li>
-<li aid:pstyle="Option">Healing potion (0 weight)</li></ul></div>
+<li aid:pstyle="Option">Healing fruit (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>_______________ has insulted my deity; I do not trust them.</p>
+<p>_______________ has insulted my element; I do not trust them.</p>
 <p>_______________ is a good and faithful person; I trust them implicitly.</p>
 <p>_______________ is in constant danger, I will keep them safe.</p>
 <p>I am working on converting _______________ to my faith.</p></div>
@@ -88,7 +88,7 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">First Aid</h3>
 <p aid:pstyle="NoIndent">Cure Light Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.</p>
 <h3 aid:pstyle="MoveName">Divine Intervention</h3>
-<p aid:pstyle="NoIndent">When you commune you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, they intervene with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
+<p aid:pstyle="NoIndent">When you commune you get 1 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your element, they intervene with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negate the damage.</p>
 <h3 aid:pstyle="MoveName">Penitent</h3>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to cast a spell.</p>
 <h3 aid:pstyle="MoveName">Empower</h3>
@@ -96,8 +96,8 @@ Show the world who is lord.</p></div>
 <ul><li>The spell’s effects are doubled</li>
 <li>The spell’s targets are doubled</li></ul>
 <h3 aid:pstyle="MoveName">Orison for Guidance</h3>
-<p aid:pstyle="NoIndent">When you <strong>sacrifice something of value to your deity and pray for guidance</strong>, your deity tells you what it would have you do. If you do it, mark experience.</p>
-<h3 aid:pstyle="MoveName">Divine Protection</h3>
+<p aid:pstyle="NoIndent">When you <strong>sacrifice something of value to your element and pray for guidance</strong>, your element tells you what it would have you do. If you do it, mark experience.</p>
+<h3 aid:pstyle="MoveName">Elemental Protection</h3>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 2 armor.</p>
 <h3 aid:pstyle="MoveName">Devoted Healer</h3>
 <p aid:pstyle="NoIndent">When you heal someone else of damage, add your level to the amount of damage healed.</p>
@@ -115,14 +115,14 @@ Show the world who is lord.</p></div>
 <h3 aid:pstyle="MoveName">Greater First Aid</h3>
 <p aid:pstyle="Requirement">Requires: First Aid</p>
 <p aid:pstyle="NoIndent">Cure Moderate Wounds is a rote for you, and therefore doesn’t count against your limit of granted spells.</p>
-<h3 aid:pstyle="MoveName">Divine Invincibility</h3>
-<p aid:pstyle="Requirement">Replaces: Divine Intervention</p>
-<p aid:pstyle="NoIndent">When you commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your deity, who intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
+<h3 aid:pstyle="MoveName">Elemental Invincibility</h3>
+<p aid:pstyle="Requirement">Replaces: Elemental Intervention</p>
+<p aid:pstyle="NoIndent">When you commune you gain 2 hold and lose any hold you already had. Spend that hold when you or an ally takes damage to call on your element, which intervenes with an appropriate manifestation (a sudden gust of wind, a lucky slip, a burst of light) and negates the damage.</p>
 <h3 aid:pstyle="MoveName">Martyr</h3>
 <p aid:pstyle="Requirement">Replaces: Penitent</p>
 <p aid:pstyle="NoIndent">When you <strong>take damage and embrace the pain</strong>, you may take +1d4 damage (ignoring armor). If you do, take +1 forward to cast a spell and add your level to any damage done or healed by the spell.</p>
-<h3 aid:pstyle="MoveName">Divine Armor</h3>
-<p aid:pstyle="Requirement">Replaces: Divine Protection</p>
+<h3 aid:pstyle="MoveName">Elemental Armor</h3>
+<p aid:pstyle="Requirement">Replaces: Elemental Protection</p>
 <p aid:pstyle="NoIndent">When you wear no armor or shield you get 3 armor.</p>
 <h3 aid:pstyle="MoveName">Greater Empower</h3>
 <p aid:pstyle="Requirement">Replaces: Empower</p>
