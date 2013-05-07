@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Fighter</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be playing golden horns for the time you took that knife to the ribs for them in the bar in Bucksberg. No flock of angels to sing of the time you dragged them, still screaming, from the edge of the Pits of Madness, no.</p>
+<Body><div id="intro"><p aid:pstyle="NoIndent">It’s a thankless job—living day to day by your armor and the skill of your arm. To dive heedlessly into danger. They won’t be reciting tales about the time you took that knife to the ribs for them in that bar in Raam. No bards to sing of the time you dragged them, still screaming, from the edge of the Dead Land, no.</p>
 <p>Forget them.</p>
-<p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. You are a beast of iron. Your friends may carry blades of forged steel but, fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
+<p>You do this for the guts and the glory. The scream of battle and the hot, hot blood of it. Your friends may carry blades of bone but, fighter, you are steel. While your traveling companions might moan about their wounds over a campfire in the wilderness, you bear your scars with pride.</p>
 <p>You are the wall—let every danger smash itself to nothing on you. In the end, you’ll be the last one standing.</p></div>
 <h2>Names</h2>
-<div id="names"><p  aid:pstyle="NoIndent"><em>Dwarf</em>: Ozruk, Surtur, Brunhilda, Annika, Janos, Greta, Dim, Rundrig, Jarl, Xotoq</p>  
-<p aid:pstyle="NoIndent"><em>Elf</em>: Elohiir, Sharaseth, Hasrith, Shevaral, Cadeus, Eldar, Kithracet, Thelian</p>    
-<p aid:pstyle="NoIndent"><em>Halfling</em>: Finnegan, Olive, Randolph, Bartleby, Aubrey, Baldwin, Becca</p> 
-<p aid:pstyle="NoIndent"><em>Human</em>: Hawke, Rudiger, Gregor, Brianne, Walton, Castor, Shanna, Ajax, Hob</p></div>
+<div id="names"><p  aid:pstyle="NoIndent"><em>Dwarf</em>: Brul, Caelum, Daled, Kov, Hai, Jurgan, Lian, Murd</p>  
+<p aid:pstyle="NoIndent"><em>Half-giant</em>: Doorub, Hurgen, Junnai, Pegen, Taka, Gigus, Cara, Lorgen</p>    
+<p aid:pstyle="NoIndent"><em>Human</em>: Anavias, Caldon, Daclamitus, Faria, Girias, Jun, Kiah, Mirabel, Portynx</p> 
+<p aid:pstyle="NoIndent"><em>Mul</em>: Birgaz, Drod, Gralth, Kesi, Lazra, Korm, Yara</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Eager Eyes</p>
-<p aid:pstyle="NoIndent">Wild Hair, Shorn Hair, or Battered Helm</p>
+<p aid:pstyle="NoIndent">Wild Hair, Shorn Hair, or No Hair</p>
 <p aid:pstyle="NoIndent">Calloused Skin, Tanned Skin, or Scarred Skin</p>
 <p aid:pstyle="NoIndent">Built Body, Lithe Body, or Ravaged Body</p></div>
 <h2>Stats</h2>
@@ -22,13 +22,13 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
-<p aid:pstyle="NoIndent">When you <strong>share a drink with someone</strong>, you may parley with them using CON instead of CHA.</p>
-<h3 aid:pstyle="MoveName">Elf</h3>
-<p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the precise tag.</p>
-<h3 aid:pstyle="MoveName">Halfling</h3>
-<p aid:pstyle="NoIndent">When you defy danger and <strong>use your small size to your advantage</strong>, take +1.</p>
+<p aid:pstyle="NoIndent">Choose a focus: a single goal that dominates your life. When you <strong>speak to someone who can forward your focus </strong>, you may parley with them using CON instead of CHA.</p>
+<h3 aid:pstyle="MoveName">Half-giant</h3>
+<p aid:pstyle="NoIndent">When you defy danger and <strong>use your immense size to your advantage</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else’s).</p></div>
+<p aid:pstyle="NoIndent">Once per battle you may reroll a single damage roll (yours or someone else’s).</p>
+<h3 aid:pstyle="MoveName">Mul</h3>
+<p aid:pstyle="NoIndent">Choose one weapon—you can always treat weapons of that type as if they had the precise tag.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Bend Bars, Lift Gates</h3>
 <p aid:pstyle="NoIndent">When you <strong>use pure strength to destroy an inanimate obstacle</strong>, roll+Str. ✴On a 10+, choose 3. ✴On a 7-9 choose 2.</p>
@@ -42,10 +42,10 @@
 <p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
 <p>Choose a base description, all are 2 weight:</p>
 <ul><li aid:pstyle="Option">Sword</li>
-<li aid:pstyle="Option">Axe</li>
-<li aid:pstyle="Option">Hammer</li>
-<li aid:pstyle="Option">Spear</li>
-<li aid:pstyle="Option">Flail</li>
+<li aid:pstyle="Option">Carrikal</li>
+<li aid:pstyle="Option">Datchi Club</li>
+<li aid:pstyle="Option">Dragon's Paw</li>
+<li aid:pstyle="Option">Cahulaks</li>
 <li aid:pstyle="Option">Fists</li></ul>
 <p aid:pstyle="NoIndent">Choose the range that best fits your weapon:</p>
 <ul><li aid:pstyle="Option">Hand</li>
@@ -76,10 +76,10 @@
 <p aid:pstyle="NoIndent">Kill a defenseless or surrendered enemy.</p></div>
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 12+Str. You carry your signature weapon and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
-<ul><li aid:pstyle="Option">Chainmail (1 armor, 1 weight) and adventuring gear (1 weight)</li>
-<li aid:pstyle="Option">Scale armor (2 armor, 3 weight)</li></ul>
+<ul><li aid:pstyle="Option">Bonemail (1 armor, 1 weight) and adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Inix shell armor (2 armor, 3 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose two:</p>
-<ul><li aid:pstyle="Option">2 Healing potions (0 weight)</li>
+<ul><li aid:pstyle="Option">2 Healing fruits (0 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li>
 <li aid:pstyle="Option">Antitoxin (0 weight), dungeon rations (1 weight), and poultices and herbs (1 weight)</li>
 <li aid:pstyle="Option">22 coins</li></ul></div>
@@ -87,7 +87,7 @@
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ owes me their life, whether they admit it or not.</p>
 <p>I have sworn to protect _______________.</p>
-<p>I worry about the ability of _______________ to survive in the dungeon.</p>
+<p>I worry about the ability of _______________ to survive in the desert.</p>
 <p>_______________ is soft, but I will make them hard like me.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
@@ -107,10 +107,10 @@
 <p aid:pstyle="NoIndent">When you hack and slash an enemy, your next attack against that same foe deals +1d4 damage.</p>
 <h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
-<h3 aid:pstyle="MoveName">Iron Hide</h3>
+<h3 aid:pstyle="MoveName">Mekillot Hide</h3>
 <p aid:pstyle="NoIndent">You gain +1 armor.</p>
-<h3 aid:pstyle="MoveName">Blacksmith</h3>
-<p aid:pstyle="NoIndent">When you have access to a forge you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.</p>
+<h3 aid:pstyle="MoveName">Weaponsmith</h3>
+<p aid:pstyle="NoIndent">When you have access to the proper materials you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.</p>
 <p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
 <h3 aid:pstyle="MoveName">Bloodthirsty</h3>
 <p aid:pstyle="Requirement">Replaces: Merciless</p>
@@ -127,7 +127,7 @@
 <h3 aid:pstyle="MoveName">Multiclass Initiate</h3>
 <p aid:pstyle="Requirement">Required: Multiclass Dabbler</p>
 <p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
-<h3 aid:pstyle="MoveName">Steel Hide</h3>
+<h3 aid:pstyle="MoveName">Braxat Hide</h3>
 <p aid:pstyle="Requirement">Replaces: Iron Hide</p>
 <p aid:pstyle="NoIndent">You gain +2 armor.</p>
 <h3 aid:pstyle="MoveName">Through Death’s Eyes</h3>
