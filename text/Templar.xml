@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>Templar</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Order can save Athas. Order and power. Your King knows that. The nobles know that. Even the rebels and heretics who call your King monster, name you toadie and slavemaster and worse, even they know it. Let them rail about freedom and equality and the overthrow of your King, when the Dragon is at the walls they will flock to you like frightened sheep. And if you have to cull some of them for the greater good, well... such is the duty of the shepherd.</p></div>
+<h2>Names</h2>
+<div id="names"><p aid:pstyle="NoIndent">Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Harsh Eyes, Fiery Eyes, or Glowing Eyes</p>
+<p aid:pstyle="NoIndent">Helmet, Styled Hair, or Bald</p>
+<p aid:pstyle="NoIndent">Worn Holy Symbol or Fancy Holy Symbol</p>
+<p aid:pstyle="NoIndent">Fit Body, Bulky Body, or Out-of-shape Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d8</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><div id="racialmoves"><p aid:pstyle="InstructionsAfterHeader">You are human, so you get this move.</p>
+<h3 aid:pstyle="MoveName">Human</h3>
+<p aid:pstyle="NoIndent">When you’re <strong>backed by the authority of your office</strong>, “the disapproval of the Sorcerer-King” always counts as leverage for the parley move.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">It's Not Them You Should Be Afraid Of</h3>
+<p aid:pstyle="NoIndent">When you <strong>are at an ally's back and they flounder</strong>, you can give them some "encouragement." You can Aid an ally with any action as long as they can hear you threatening them. If you are also close enough you could hurt them, take +1 to your Aid roll.</p>
+<h3 aid:pstyle="BasicMoveName">Armored</h3>
+<p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
+<h3 aid:pstyle="BasicMoveName">I Am the Law</h3>
+<p aid:pstyle="NoIndent">When you <strong>give an NPC an order based on your position of power</strong>, roll+Cha. ✴On a 7+, they choose one:</p>
+<ul><li>Do what you say</li>
+<li>Back away cautiously, then flee</li>
+<li>Attack you</li></ul>
+<p aid:pstyle="NoIndent">✴On a 10+, you also take +1 forward against them. ✴On a miss, they do as they please and you take -1 forward against them.</p>
+<h3 aid:pstyle="BasicMoveName">Inquisition</h3>
+<p aid:pstyle="NoIndent">When you <strong>have a private cha with an NPC</strong>, roll+Cha. ✴On a 10+, hold 3. ✴On a 7-9, hold 2. ✴On a 6-, hold 1, but the NPC will try to run away or attack you. Spend your hold 1 for 1 on the following:</p>
+<ul><li>You find out who they work for and why.</li>
+<li>You find out their goal and how far they'll go to get it.</li>
+<li>You find out if they intend to harm anyone, and if so, who.</li>
+<li>You find out if they are hiding something, and if so, what.</li></ul>
+<p aid:pstyle="NoIndent">After hearing their answers, you can put serious pressure on them for more - break some bones, threaten loved ones, or something similar. If you do, take +1 hold, but the NPC will never want anything to do with you ever again.</p>
+<h3 aid:pstyle="BasicMoveName">Unrelenting</h3>
+<p aid:pstyle="NoIndent">When you <strong>are in no condition to continue but do so anyway</strong>, roll +Con. ✴On a 10+, both. ✴On a 7-9, choose one:</p>
+<ul><li>You ignore your debilities and injuries until the moment before you accomplish your immediate goal. Until then, you take action as if you were perfectly fine.</li>
+<li>You stay standing and will not fall. One ally of your choice gets +1 ongoing as long as you stay standing.</li></ul>
+<p aid:pstyle="NoIndent">✴On a 6-, choose one, but your condition worsens significantly: you take 1d8 damage as you push yourself beyond your limits.</p>
+<p aid:pstyle="NoIndent">If you hit 0 HP while you are Unrelenting, you keep going and do not take your Last Breath until you fall or your goal is accomplished, whichever comes first. If you die while you are Unrelenting, take +1 to your Last Breath.</p></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Lawful</h3>
+<p aid:pstyle="NoIndent">Deny mercy to a criminal or seditionist.</p>
+<h3 aid:pstyle="MoveName">Evil</h3>
+<p aid:pstyle="NoIndent">Exploit your position for power and privilege.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 12+Str. You start with desert rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some symbol of your office, describe it (0 weight). Choose your weapon:</p>
+<ul><li aid:pstyle="Option">Halberd (reach, +1 damage, two-handed, 2 weight)</li>
+<li aid:pstyle="Option">Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Desert rations (1 weight) and healing fruit (0 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ is to be watched closely for signs of betrayal.</p>
+<p>_______________ serves my King's ends, whether they know it or not.</p>
+<p>_______________ could unite the people behind me.</p>
+<p>I trust _______________ with my life, but my King does not.</p>
+<p>If anyone could overthrow my King, it would be _______________.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2–5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">Professional Courtesy</h3>
+<p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.You and Death have an understanding. When you take your Last Breath, take +1. In addition, when an ally takes their Last Breath while you are close enough to rush to their side, you can Aid with their Last Breath roll. Be warned: Death will try to rope you into any bargains involving your comrade.</p>
+<h3 aid:pstyle="MoveName">Bloody Aegis</h3>
+<p aid:pstyle="NoIndent">When you take damage you can grit your teeth and accept the blow. If you do you take no damage but instead suffer a debility of your choice. If you already have all six debilities you can’t use this move.</p>
+<h3 aid:pstyle="MoveName">Smite</h3>
+<p aid:pstyle="NoIndent">While you are Unrelenting, you deal +1d4 damage.</p>
+<h3 aid:pstyle="MoveName">Exterminatus</h3>
+<p aid:pstyle="NoIndent">When you <strong>speak aloud your promise to defeat an enemy</strong>, you deal +2d4 damage against that enemy and -4 damage against anyone else. This effect lasts until the enemy is defeated. If you fail to defeat the enemy or give up the fight, you can admit your failure, but the effect continues until you find a way to redeem yourself.</p>
+<h3 aid:pstyle="MoveName">Charge!</h3>
+<p aid:pstyle="NoIndent">When you <strong>lead the charge into combat</strong>, those you lead take +1 forward.</p>
+<h3 aid:pstyle="MoveName">Who Told You To Stop</h3>
+<p aid:pstyle="NoIndent">When you <strong>aid an ally</strong>, you push them beyond their limits. ✴On a 10+, they may mark a debility to select two of the following options.✴On a 7-9, they may mark a debility to select one of the following options.</p>
+<ul><li>They take +3 Armor forward.</li>
+<li>They deal +1d6 damage forward.</li>
+<li>They heal 2d6 damage.</li>
+<li>They ignore a debility, effect, or condition for a short while.</li></ul>
+<h3 aid:pstyle="MoveName">This Never Happened</h3>
+<p aid:pstyle="NoIndent">Add the following option to the Inquisition move list:</p>
+<ul><li>The NPC will willfully ignore all evidence that an event of your choice ever happened.</li></ul>
+<h3 aid:pstyle="MoveName">Unfailing Commitment</h3>
+<p aid:pstyle="NoIndent">While you are Unrelenting, you get +1 armor and gain +1 hold when you Defend.</p>
+<h3 aid:pstyle="MoveName">Voice of Authority</h3>
+<p aid:pstyle="NoIndent">Take +1 to order hirelings.</p>
+<h3 aid:pstyle="MoveName">Sorcerer-King’s Blessing</h3>
+<p aid:pstyle="NoIndent">You gain the cleric’s cast a spell and commune moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1. When you commune, you do so not with a sacred element but with your Sorcerer-King.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6–10, choose from these moves or the level 2–5 moves.</p>
+<h3 aid:pstyle="MoveName">Heretical Dabbling</h3>
+<p aid:pstyle="NoIndent">Take one move from the Thief or Ranger class list. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">To Hell With You</h3>
+<p aid:pstyle="Requirement">Replaces: Smite</p>
+<p aid:pstyle="NoIndent">While you are Unrelenting, you deal +1d8 damage.</p>
+<h3 aid:pstyle="MoveName">Ever Onward</h3>
+<p aid:pstyle="Requirement">Replaces: Charge!</p>
+<p aid:pstyle="NoIndent">When you lead the charge into combat, those you lead take +1 forward and +2 armor forward.</p>
+<h3 aid:pstyle="MoveName">Never Back Down</h3>
+<p aid:pstyle="Requirement">Replaces: Unfailing Commitment</p>
+<p aid:pstyle="NoIndent">When you defend you always get +1 hold, even on a 6-. When you get a 12+ to defend instead of getting hold the nearest attacking creature is stymied giving you a clear advantage, the GM will describe it.</p>
+<h3 aid:pstyle="MoveName">Rallying Point</h3>
+<p aid:pstyle="NoIndent">While you Defend, any allies who also commit to defending with you gain 1 hold each. They can spend this hold at any time to give +2 armor forward to an ally or to whatever is being defended.</p>
+<h3 aid:pstyle="MoveName">Multiclass Dabbler</h3>
+<p aid:pstyle="NoIndent">Get one move from another class. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Unquestioned Authority</h3>
+<p aid:pstyle="Requirement">Replaces: Voice of Authority</p>
+<p aid:pstyle="NoIndent">Take +1 to order hirelings. When you roll a 12+ the hireling transcends their moment of fear and doubt and carries out your order with particular effectiveness or efficiency.</p>
+<h3 aid:pstyle="MoveName">Combat Inquisition</h3>
+<p aid:pstyle="NoIndent">You may use the Inquisition move on an enemy while you fight them.</p>
+<h3 aid:pstyle="MoveName">Indomitable</h3>
+<p aid:pstyle="NoIndent">When you suffer a debility (even through Bloody Aegis) take +1 forward against whatever caused it.</p>
+<h3 aid:pstyle="MoveName">Shining Beacon</h3>
+<p aid:pstyle="NoIndent">Change the second option of Unrelenting to the following:</p>
+<ul><li>You stay standing and will not fall. Your allies gets +1 ongoing as long as you stay standing. If you hit 0 HP, you keep going and do not take your Last Breath until you fall or your goal is accomplished, whichever comes first.</li></ul>
+<h3 aid:pstyle="MoveName">Ear of the King</h3>
+<p aid:pstyle="NoIndent">When you speak truth to power, roll+Cha. On a hit, they listen to your advice and do as you recommend without acting against their nature (the evil high templar might still do good if you convince him it is in his personal interest). ✴On a 10+, both occur. ✴On a 7-9, choose one:</p>
+<ul><li>They don't reprimand you for your insolence.</li>
+<li>They don't "improve" on your plan.</li></ul></div></Body></Root>

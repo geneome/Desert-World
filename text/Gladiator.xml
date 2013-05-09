@@ -53,7 +53,7 @@
 <h3 aid:pstyle="MoveName">Good</h3>
 <p aid:pstyle="NoIndent">Step aside so an ally can bask in the glory of victory.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You carry your arsenal (2 weight) and survival rations (5 uses, 1 weight).</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You carry your arsenal (2 weight) and desert rations (5 uses, 1 weight).</p>
 <p>Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Mekillot hide armor (1 armor, 1 weight) and adventuring gear (5 uses, 1 weight)</li>
 <li aid:pstyle="Option">Piecemeal metal armor (1 armor, metal, 1 weight)</li>
@@ -73,7 +73,7 @@
 <li aid:pstyle="Option">3 chatchkas (thrown, near, return, 1 weight each)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">2 healing fruits (0 weight)</li>
-<li aid:pstyle="Option">Antitoxin (0 weight), dungeon rations (5 uses, 1 weight), and poultices and herbs (2 uses, slow, 1 weight)</li></ul></div>
+<li aid:pstyle="Option">Antitoxin (0 weight), desert rations (5 uses, 1 weight), and poultices and herbs (2 uses, slow, 1 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ freed me from the arena.</p>

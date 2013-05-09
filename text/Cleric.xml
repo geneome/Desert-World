@@ -59,7 +59,7 @@
 <h3 aid:pstyle="MoveName">Evil</h3>
 <p aid:pstyle="NoIndent">Harm another to prove the superiority of your element.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 10+Str. You carry dungeon rations (5 uses, 1 weight) and some symbol of your element, describe it (0 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 10+Str. You carry desert rations (5 uses, 1 weight) and some symbol of your element, describe it (0 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Bonemail (1 armor, 1 weight)</li>
 <li aid:pstyle="Option">Shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
@@ -67,7 +67,7 @@
 <li aid:pstyle="Option">Mace (close, 1 weight)</li>
 <li aid:pstyle="Option">Staff (close, two-handed, 1 weight) and bandages (0 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (5 uses, 1 weight)</li>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight) and desert rations (5 uses, 1 weight)</li>
 <li aid:pstyle="Option">Healing fruit (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
