@@ -31,13 +31,13 @@
 <li>Dragon beetle poison (touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div>
 <h3 aid:pstyle="BasicMoveName">Bardic Lore</h3>
 <p aid:pstyle="NoIndent">Choose an area of expertise:</p>
-<ul><li>Spells and Magicks</li>
-<li>The Dead and Undead</li>
-<li>Grand Histories of the Known World</li>
-<li>A Bestiary of Creatures Unusual</li>
-<li>The Planar Spheres</li>
-<li>Legends of Heroes Past</li>
-<li>The Sorcerer-Kings and Their Servants</li></ul>
+<ul><li aid:pstyle="Option">Spells and Magicks</li>
+<li aid:pstyle="Option">The Dead and Undead</li>
+<li aid:pstyle="Option">Grand Histories of the Known World</li>
+<li aid:pstyle="Option">A Bestiary of Creatures Unusual</li>
+<li aid:pstyle="Option">The Planar Spheres</li>
+<li aid:pstyle="Option">Legends of Heroes Past</li>
+<li aid:pstyle="Option">The Sorcerer-Kings and Their Servants</li></ul>
 <p aid:pstyle="NoIndent">When you <strong>first encounter an important creature, location, or item (your call) covered by your bardic lore</strong> you can ask the GM any one question about it; the GM will answer truthfully. The GM may then ask you what tale, song, or legend you heard that information in.</p>
 <h3 aid:pstyle="BasicMoveName">Charming and Open</h3>
 <p aid:pstyle="NoIndent">When you <strong>speak frankly with someone</strong>, you can ask their player a question from the list below. They must answer it truthfully, then they may ask you a question from the list (which you must answer truthfully).</p>
@@ -68,12 +68,12 @@
 <li aid:pstyle="Option">Ostentatious clothes (0 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose your armament:</p>
 <ul><li aid:pstyle="Option">Bard's friend (hand, precise, 1 weight)</li>
-<li aid:pstyle="Option">Blowgun (near, 1 weight), bundle of darts (3 ammo, 1 weight), and short sword (close, 1 weight)</li></ul>
+<li aid:pstyle="Option">Blowgun (near, 1 weight), bundle of darts (3 ammo, 1 weight), and obsidian short sword (close, fragile, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li>Adventuring gear (1 weight)</li>
-<li>Bandages (0 weight)</li>
-<li>Bellaweed (0 weight)</li>
-<li>3 coins</li></ul></div>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Bandages (0 weight)</li>
+<li aid:pstyle="Option">Bellaweed (0 weight)</li>
+<li aid:pstyle="Option">3 coins</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>This is not my first adventure with _______________.</p>

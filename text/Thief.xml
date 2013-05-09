@@ -41,10 +41,10 @@
 <p aid:pstyle="NoIndent">When someone tries to detect your alignment you can tell them any alignment you like.</p>
 <h3 aid:pstyle="BasicMoveName">Poisoner</h3>
 <p aid:pstyle="NoIndent">You’ve mastered the care and use of a poison. Choose a poison from the list below; that poison is no longer dangerous for you to use. You also start with three uses of the poison you choose. Whenever you have time to gather materials and a safe place to brew you can make three uses of the poison you choose for free. Note that some poisons are applied, meaning you have to carefully apply it to the target or something they eat or drink. Touch poisons just need to touch the target, they can even be used on the blade of a weapon.</p>
-<ul><li>Poisonweed spores (applied): The target falls into a light sleep</li>
-<li>Mulworm venom (touch): The target deals -1d4 damage ongoing until cured</li>
-<li>Brain seed powder (applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
-<li>Dragon beetle poison (touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div>
+<ul><li aid:pstyle="Option">Poisonweed spores (applied): The target falls into a light sleep</li>
+<li aid:pstyle="Option">Mulworm venom (touch): The target deals -1d4 damage ongoing until cured</li>
+<li aid:pstyle="Option">Brain seed powder (applied): The target treats the next creature they see as a trusted ally, until proved otherwise</li>
+<li aid:pstyle="Option">Dragon beetle poison (touch): Anyone dealing damage to the target rolls twice and takes the better result.</li></ul></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>

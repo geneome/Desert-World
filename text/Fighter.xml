@@ -65,7 +65,7 @@
 <li aid:pstyle="Option">Unblemished</li>
 <li aid:pstyle="Option">Ornate</li>
 <li aid:pstyle="Option">Blood-stained</li>
-<li aid:pstyle="Option">Sinister</li></ul></div></div>
+<li aid:pstyle="Option">Sinister</li></ul></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>

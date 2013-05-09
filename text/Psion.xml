@@ -59,10 +59,10 @@ You may Discern Realities about someone simply by touching something they've mad
 <ul><li aid:pstyle="Option">Dagger (hand, 1 weight)</li>
 <li aid:pstyle="Option">Sturdy divination instrument (close, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li>Adventuring gear (1 weight)</li>
-<li>Bandages (0 weight)</li>
-<li>Bellaweed (0 weight)</li>
-<li>3 coins</li></ul></div>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
+<li aid:pstyle="Option">Bandages (0 weight)</li>
+<li aid:pstyle="Option">Bellaweed (0 weight)</li>
+<li aid:pstyle="Option">3 coins</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________'s soul is so bright it almost hurts to see.</p>

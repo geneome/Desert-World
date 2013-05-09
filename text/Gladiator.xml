@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
+<h1>Fighter</h1>
+<Body><div id="intro"><p aid:pstyle="NoIndent">The roar of the crowd. The stink of sweat and blood and strange beasts out of the desert. The feel of your heart pounding like the ghost drums of Gulg. It’s a stark, brutal life, but at least it’s simple. Another dawn, another fight. Another dusk, another victory--or else no more dawns at all.</p>
+<p>They may call you “slave,” but in your own way, you’re freer than all of them.</p></div>
+<h2>Names</h2>
+<div id="names"><p  aid:pstyle="NoIndent"><em>Dwarf</em>: Bonebreaker Birgaz, Drod the Shiv, Gralth the Gruesome, Lady Kesi, Lazra Three-Knives, Korm the Corpsemaker, Yara Steel</p>  
+<p aid:pstyle="NoIndent"><em>Half-giant</em>: Den-dro the Enormous, Crag the Brute, The Mountain That Roars, Clubber, The Queen of the Giants, Beast Ghundra</p>    
+<p aid:pstyle="NoIndent"><em>Mul</em>: The Balic Kid, Porgo the Punisher, Rikus the Spine-Taker, The Masked Doom, The Green Devil, Bloody Tomak, Coton the Killer</p>
+<p aid:pstyle="NoIndent"><em>Thri-kreen</em>: Cannibal Klik, The Bug, The Great Khan, The Leaper, Fleshripper, The Elf-Eater</p></div>
+<h2>Look</h2>
+<div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
+<p aid:pstyle="NoIndent">Hard Eyes, Dead Eyes, or Eager Eyes</p>
+<p aid:pstyle="NoIndent">Wild Hair, Scalp Tatoos, or No Hair</p>
+<p aid:pstyle="NoIndent">Calloused Skin, Tanned Skin, or Scarred Skin</p>
+<p aid:pstyle="NoIndent">Huge Body, Ropy Body, or Scarred Body</p></div>
+<h2>Stats</h2>
+<p aid:pstyle="NoIndent">Your maximum HP is 10+Constitution.</p>
+<p aid:pstyle="NoIndent">Your base damage is <span id="Damage">d10</span>.</p>
+<h2>Starting Moves</h2>
+<div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
+<div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
+<p aid:pstyle="NoIndent">You ignore the forceful tag on enemies' weapons.</p>
+<h3 aid:pstyle="MoveName">Half-giant</h3>
+<p aid:pstyle="NoIndent">When you're <strong>mobbed by smaller enemies</strong>, gain +1 armor.</p>
+<h3 aid:pstyle="MoveName">Mul</h3>
+<p aid:pstyle="NoIndent">When you <strong>go among those that have witnessed a victory</strong>, it counts as the Carouse move with a 10+ result.</p>
+<h3 aid:pstyle="MoveName">Thri-kreen</h3>
+<p aid:pstyle="NoIndent">You put all your arms to good use. When you <strong>use the Right Tool For the Job move to add a weapon tag to your attack</strong>, you can add two tags.</p></div>
+<div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
+<h3 aid:pstyle="BasicMoveName">arsenal</h3>
+<p aid:pstyle="NoIndent">Years of fighting unpredictable foes in the arena have taught you to be prepared for just about anything. In addition to whatever primary weapons you carry, you’re loaded down with lethal oddments: bone darts, obsidian knives, razor-edged gloves, whatever. Your arsenal is abstract, disposable, not really a “thing.” Choose a look for your arsenal:</p>
+<ul><li aid:pstyle="Option">Savage</li>
+<li aid:pstyle="Option">Exotic</li>
+<li aid:pstyle="Option">Themed</li>
+<li aid:pstyle="Option">Improvised</li>
+<li aid:pstyle="Option">Hidden</li></ul>
+<p aid:pstyle="NoIndent">When you go into battle fully equipped, you have 2-arsenal. You can have up to 3-arsenal at any given time.</p>
+<h3 aid:pstyle="BasicMoveName">Right Tool for the Job</h3>
+<p aid:pstyle="NoIndent">At any time you can spend your arsenal, one-for-one, on one of the following effects.</p>
+<ul><li>Add any weapon tag to your weapon for one move.</li>
+<li>Treat a single damage die as though it had rolled the maximum value.</li></ul>
+<h3 aid:pstyle="BasicMoveName">He’s Not Using It Any More</h3>
+<p aid:pstyle="NoIndent">When you <strong>kill an armed enemy in melee combat</strong>, gain 1-arsenal (max 3).</p>
+<h3 aid:pstyle="BasicMoveName">Are You Not Entertained?</h3>
+<p aid:pstyle="NoIndent">When you <strong>grandstand for the benefit of anyone watching</strong>, roll+Cha. ✴On a 10+, take +1 ongoing until you roll a 6- on a move. ✴On a 7-9, take +1 forward instead.</p></div>
+<h2>Alignment</h2>
+<p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
+<div id="alignment"><h3 aid:pstyle="MoveName">Lawful</h3>
+<p aid:pstyle="NoIndent">Best an opponent in a fair fight.</p>
+<h3 aid:pstyle="MoveName">Neutral</h3>
+<p aid:pstyle="NoIndent">Chase personal glory regardless of the risk.</p>
+<h3 aid:pstyle="MoveName">Good</h3>
+<p aid:pstyle="NoIndent">Step aside so an ally can bask in the glory of victory.</p></div>
+<h2>Gear</h2>
+<div id="gear"><p aid:pstyle="NoIndent">Your load is 12+Str. You carry your arsenal (2 weight) and survival rations (5 uses, 1 weight).</p>
+<p>Choose your defenses:</p>
+<ul><li aid:pstyle="Option">Mekillot hide armor (1 armor, 1 weight) and adventuring gear (5 uses, 1 weight)</li>
+<li aid:pstyle="Option">Piecemeal metal armor (1 armor, metal, 1 weight)</li>
+<li aid:pstyle="Option">Kank-shell shield (+1 armor, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose a serious weapon:</p>
+<ul><li aid:pstyle="Option">Impaler (close, 2-piercing, messy, 2 weight)</li>
+<li aid:pstyle="Option">Trikal (reach, forceful, 2 weight)</li>
+<li aid:pstyle="Option">Carikkal (close, messy, 1 weight)</li>
+<li aid:pstyle="Option">Gythka (close, reach, two-handed, 2 weight)</li></ul>
+<p aid:pstyle="NoIndent">Choose three backup weapons:</p>
+<ul><li aid:pstyle="Option">Singing sticks (close, precise, 1 weight)</li>
+<li aid:pstyle="Option">Dejada (near, forceful, 1 weight)</li> and pelota (3 ammo, 1 weight)</li>
+<li aid:pstyle="Option">Alhuak (close, reach, messy, 1 weight)</li>
+<li aid:pstyle="Option">Forearm axe (hand, +1 armor, messy, 2 weight)</li>
+<li aid:pstyle="Option">Puchik (hand, +2 damage, 1 weight)</li>
+<li aid:pstyle="Option">Talid (hand, messy, 1 weight)</li>
+<li aid:pstyle="Option">3 chatchkas (thrown, near, return, 1 weight each)</li></ul>
+<p aid:pstyle="NoIndent">Choose one:</p>
+<ul><li aid:pstyle="Option">2 healing fruits (0 weight)</li>
+<li aid:pstyle="Option">Antitoxin (0 weight), dungeon rations (5 uses, 1 weight), and poultices and herbs (2 uses, slow, 1 weight)</li></ul></div>
+<h2>Bonds</h2>
+<div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
+<p>_______________ freed me from the arena.</p>
+<p>_______________ would be dead if it weren’t for me.</p>
+<p>_______________ made a lot of money from my victories.</p>
+<p>_______________ bet against me once. Once.</p></div>
+<h2>Advanced Moves</h2>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
+<h3 aid:pstyle="MoveName">I Do Not Hit...</h3>
+<p aid:pstyle="NoIndent">When you hack and slash, you can roll+arsenal instead of roll+Str.</p>
+<h3 aid:pstyle="MoveName">Armed to the Teeth</h3>
+<p aid:pstyle="NoIndent">When you <strong>go into battle fully equipped</strong>, you have 3-arsenal.</p>
+<h3 aid:pstyle="MoveName">Trash Talk</h3>
+<p aid:pstyle="NoIndent">When you insult an enemy before a fight, roll+Cha. ✴On a 10+, they're rattled; until the end of the fight they roll damage twice and take the worse result. ✴On a 7-9, until the end of the fight they roll damage twice and take the worse result against your allies, but they roll damage twice and take the better result against you.</p>
+<h3 aid:pstyle="MoveName">Cutthroat</h3>
+<p aid:pstyle="NoIndent">Choose one non-multiclass move from the fighter, ranger, or thief class list. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Never Unarmed</h3>
+<p aid:pstyle="NoIndent">When you go into battle completely unprepared, you still have 1-arsenal.</p>
+<h3 aid:pstyle="MoveName">I’ll Have That</h3>
+<p aid:pstyle="NoIndent">When you <strong>grab an enemy’s weapon</strong>, roll+Str. ✴On a 10+, he’s disarmed and you gain 1-arsenal (max 3). ✴On a 7-9, he’s disarmed, but his weapon’s way over there. You can go get it, and gain that 1-arsenal, but you’ll have to expose yourself to danger to do it.</p>
+<h3 aid:pstyle="MoveName">Blood on the Sand</h3>
+<p aid:pstyle="NoIndent">When you deal your damage, you can spend 1-arsenal to inflict a debility on your target. (NPCs don’t have stats, but the debility still hinders them according to the fiction.)</p>
+<h3 aid:pstyle="MoveName">Mano-a-Mano</h3>
+<p aid:pstyle="NoIndent">When you <strong>call out an opponent for single combat</strong>, roll+Cha. ✴On a 10+, it’s on. No one else will attack you, and your chosen foe won’t attack anybody else. ✴On a 7-9, choose one:</p>
+<ul><li>your chosen foe honors the duel. His buddies? Not so much.</li>
+<li>nobody else will come at you, but your chosen foe has no compunction about killing anybody between you and him.</li></ul>
+<p aid:pstyle="NoIndent">In either case, if you break the duel before your opponent is dead, take -1 ongoing for the rest of the fight, you honorless son of a kank.</p>
+<h3 aid:pstyle="MoveName">Wall of Blades</h3>
+<p aid:pstyle="NoIndent">When you defend, you can spend arsenal as though it were hold.</p>
+<h3 aid:pstyle="MoveName">Armor Expert</h3>
+<p aid:pstyle="NoIndent">Remove the clumsy tag from armor you wear.</p>
+<p aid:pstyle="Instructions">When you gain a level from 6-10, choose from these moves or the level 2-5 moves.</p>
+<h3 aid:pstyle="MoveName">God of the Arena</h3>
+<p aid:pstyle="Requirement">Requires: Blood on the Sand</p>
+<p aid:pstyle="NoIndent">When fighting an opponent with a debility, deal +1d6 damage.</p>
+<h3 aid:pstyle="MoveName">Death Smiles At Us All</h3>
+<p aid:pstyle="NoIndent">When you take your final breath, roll+Cha.</p>
+<h3 aid:pstyle="MoveName">...It Hits All By Itself</h3>
+<p aid:pstyle="Requirement">Requires: I Do Not Hit...</p>
+<p aid:pstyle="NoIndent">When you hack and slash, you can spend 1-arsenal to turn a 6- result into a 7-9, or 2-arsenal to turn a 7-9 result into a 10+.</p>
+<h3 aid:pstyle="MoveName">Learned This One Outside the Ring</h3>
+<p aid:pstyle="NoIndent">Choose one non-multiclass move from the fighter, ranger, or thief class list. Treat your level as one lower for choosing the move.</p>
+<h3 aid:pstyle="MoveName">Better a Broken Sword than a Broken Skull</h3>
+<p aid:pstyle="NoIndent">When you take damage, you can spend 1-arsenal to negate it completely. This move reduces your maximum arsenal by one until the end of the fight.</p>
+<h3 aid:pstyle="MoveName">Am I Not Merciful?</h3>
+<p aid:pstyle="NoIndent">When you s<strong>pare the life of a vanquished enemy</strong>, roll+Cha. ✴On a 10+, hold 2 over them. ✴On a 7-9, hold 1. At any time, you can spend your hold to call on them for a favor. This counts as making the parley move and hitting with a 10+ result (the hold also counts as the necessary leverage).</p>
+<h3 aid:pstyle="MoveName">My Teeth Are Also Armed</h3>
+<p aid:pstyle="Requirement">Requires: Armed to the Teeth</p>
+<p aid:pstyle="NoIndent">You can have up to 4-arsenal at one time.</p>
+<h3 aid:pstyle="MoveName">Rope-a-Dope</h3>
+<p aid:pstyle="Requirement">Requires: Mano-a-Mano</p>
+<p aid:pstyle="NoIndent">You no longer take -1 ongoing if you break the terms of a challenge made with Mano-a-Mano. Moreover, the first of your allies to attack your chosen foe takes +1 forward.</p>
+<h3 aid:pstyle="MoveName">Morituri te Salutant</h3>
+<p aid:pstyle="NoIndent">When you roll a 12+ on hack and slash, it also counts as making the Are You Not Entertained move and hitting with a 10+.</p>
+<h3 aid:pstyle="MoveName">What's Yours is Mine</h3>
+<p aid:pstyle="Requirement">Requires: I'll Have That</p>
+<p aid:pstyle="NoIndent">Add the following option to the defend basic move:</p>
+<ul><li>Take your enemy’s weapon and gain 1-arsenal.</li></ul></div></Body></Root>
