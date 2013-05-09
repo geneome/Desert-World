@@ -27,6 +27,7 @@
 <p><em>+n Damage</em>: It is particularly harmful to your enemies. When you deal damage, you add <em>n</em> to it.</p>
 <p><em>Ignores Armor</em>: Don’t subtract armor from the damage taken.</p>
 <p><em>Messy</em>: It does damage in a particularly destructive way, ripping people and things apart.</p>
+<p><em>Fragile</em>: The weapon might break when a particularly heavy strike causes the weapon to hit a hard object or creature.</p>
 <p><em>n Piercing</em>: It goes right through armor. When you deal damage with <em>n</em> piercing, you subtract <em>n</em> from the enemy’s armor for that attack.</p>
 <p><em>Precise</em>: It rewards careful strikes. You use DEX to hack and slash with this weapon, not STR.</p>
 <p><em>Reload</em>: After you attack with it, it takes more than a moment to reset for another attack. </p>
