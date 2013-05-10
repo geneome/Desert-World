@@ -40,8 +40,8 @@
 <p aid:pstyle="NoIndent">You ignore the clumsy tag on armor you wear.</p>
 <h3 aid:pstyle="BasicMoveName">Signature Weapon</h3>
 <p aid:pstyle="NoIndent">This is your weapon. There are many like it, but this one is yours. Your weapon is your best friend. It is your life. You master it as you master your life. Your weapon, without you, is useless. Without your weapon, you are useless. You must wield your weapon true.</p>
-<p>Choose a base description, all are 2 weight:</p>
-<ul><li aid:pstyle="Option">Sword</li>
+<p>Choose a base description, all are 2 weight and all but Fists are fragile:</p>
+<ul><li aid:pstyle="Option">Obsidian Sword</li>
 <li aid:pstyle="Option">Carrikal</li>
 <li aid:pstyle="Option">Datchi Club</li>
 <li aid:pstyle="Option">Dragon's Paw</li>

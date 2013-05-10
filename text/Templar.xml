@@ -3,7 +3,7 @@
 <h1>Templar</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">Order can save Athas. Order and power. Your King knows that. The nobles know that. Even the rebels and heretics who call your King monster, name you toadie and slavemaster and worse, even they know it. Let them rail about freedom and equality and the overthrow of your King, when the Dragon is at the walls they will flock to you like frightened sheep. And if you have to cull some of them for the greater good, well... such is the duty of the shepherd.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent">Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius</p></div>
+<div id="names"><p aid:pstyle="NoIndent">Arbistor, Arisphistaneles, Darian, Domitian, Lestria, Lionus, Sycia, Attia, Callista</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Harsh Eyes, Fiery Eyes, or Glowing Eyes</p>
@@ -50,7 +50,7 @@
 <h2>Gear</h2>
 <div id="gear"><p aid:pstyle="NoIndent">Your Load is 12+Str. You start with desert rations (5 uses, 1 weight), scale armor (2 armor, 3 weight), and some symbol of your office, describe it (0 weight). Choose your weapon:</p>
 <ul><li aid:pstyle="Option">Halberd (reach, +1 damage, two-handed, 2 weight)</li>
-<li aid:pstyle="Option">Long sword (close, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
+<li aid:pstyle="Option">Bone long sword (close, fragile, +1 damage, 1 weight) and shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
 <ul><li aid:pstyle="Option">Adventuring gear (1 weight)</li>
 <li aid:pstyle="Option">Desert rations (1 weight) and healing fruit (0 weight)</li></ul></div>

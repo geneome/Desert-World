@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
-<h1>Fighter</h1>
+<h1>Gladiator</h1>
 <Body><div id="intro"><p aid:pstyle="NoIndent">The roar of the crowd. The stink of sweat and blood and strange beasts out of the desert. The feel of your heart pounding like the ghost drums of Gulg. It’s a stark, brutal life, but at least it’s simple. Another dawn, another fight. Another dusk, another victory--or else no more dawns at all.</p>
 <p>They may call you “slave,” but in your own way, you’re freer than all of them.</p></div>
 <h2>Names</h2>
@@ -59,9 +59,9 @@
 <li aid:pstyle="Option">Piecemeal metal armor (1 armor, metal, 1 weight)</li>
 <li aid:pstyle="Option">Kank-shell shield (+1 armor, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose a serious weapon:</p>
-<ul><li aid:pstyle="Option">Impaler (close, 2-piercing, messy, 2 weight)</li>
+<ul><li aid:pstyle="Option">Gouge (close, 2-piercing, messy, 2 weight)</li>
 <li aid:pstyle="Option">Trikal (reach, forceful, 2 weight)</li>
-<li aid:pstyle="Option">Carikkal (close, messy, 1 weight)</li>
+<li aid:pstyle="Option">Carikkal (close, fragile, messy, 1 weight)</li>
 <li aid:pstyle="Option">Gythka (close, reach, two-handed, 2 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose three backup weapons:</p>
 <ul><li aid:pstyle="Option">Singing sticks (close, precise, 1 weight)</li>
