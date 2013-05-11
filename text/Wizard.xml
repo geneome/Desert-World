@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Wizard</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">Dungeon World has rules. Not the laws of men or the rule of some petty tyrant. Bigger, better rules. You drop something—it falls. You can’t make something out of nothing. The dead stay dead, right?</p>
-<p>Oh, the things we tell ourselves to feel better about the long, dark nights.</p>
-<p>You’ve spent so very long poring over those tomes of yours. The experiments that nearly drove you mad and all the botched summonings that endangered your very soul. For what? For power. What else is there? Not just the power of King or Country but the power to boil a man’s blood in his veins. To call on the thunder of the sky and the churn of the roiling earth. To shrug off the rules the world holds so dear.</p>
-<p>Let them cast their sidelong glances. Let them call you “warlock” or “diabolist.” Who among them can hurl fireballs from their eyes?</p>
-<p>Yeah. We didn’t think so.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">Magic wasn’t always like this. Once, they say, it was a wholesome power that made people’s lives easier, happier, longer. Now, though? It takes every scrap of willpower you have to not be a blight on the world. Magic hungers, and if you let it it will consume every last scrap of life on Athas. You should put it down and walk away, but it just keeps calling to you, whispering promises of what you could do if you just. Let. Go.</p>
+<p>What would you let burn for power?</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Galadiir, Fenfaril, Lilliastre, Phirosalle, Enkirash, Halwyr</p> 
-<p aid:pstyle="NoIndent"><em>Human</em>: Avon, Morgan, Rath, Ysolde, Ovid, Vitus, Aldara, Xeno, Uri</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Arelia, Celba, Chirl, Elas, Jeila, Magnus, Nefen, Osar, Riv</p> 
+<p aid:pstyle="NoIndent"><em>Human</em>: Albeorn, Athrialix, Aukash-pad, Catrion, Dahn-gen, Gar, Judriath, Phatim, Rasia</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Haunted Eyes, Sharp Eyes, or Crazy Eyes</p>
-<p aid:pstyle="NoIndent">Styled Hair, Wild Hair, or Pointed Hat</p>
+<p aid:pstyle="NoIndent">Styled Hair, Wild Hair, or Skull Cap</p>
 <p aid:pstyle="NoIndent">Worn Robes, Stylish Robes, or Strange Robes</p>
 <p aid:pstyle="NoIndent">Pudgy Body, Creepy Body, or Thin Body</p></div>
 <h2>Stats</h2>
@@ -26,7 +23,7 @@
 <p aid:pstyle="NoIndent">Choose one cleric spell. You can cast it as if it was a wizard spell.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Spellbook</h3>
-<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spellbook. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
+<p aid:pstyle="NoIndent">You have mastered several spells and inscribed them in your spell book/clay tablets/papyrus. You start out with three first level spells in your spellbook as well as the cantrips. Whenever you gain a level, you add a new spell of your level or lower to your spellbook. You spellbook is 1 weight.</p>
 <h3 aid:pstyle="BasicMoveName">Prepare Spells</h3>
 <p aid:pstyle="NoIndent">When you <strong>spend uninterrupted time (an hour or so) in quiet contemplation of your spellbook</strong>, you:</p>
 <ul><li>Lose any spells you already have prepared</li>
@@ -48,30 +45,34 @@
 <li>It will require a lot of money</li>
 <li>The best you can do is a lesser version, unreliable and limited</li>
 <li>You and your allies will risk danger from ____</li>
-<li>You’ll have to disenchant ____ to do it</li></ul></div></div>
+<li>You’ll have to disenchant ____ to do it</li>
+<li>It will require vast amounts of life energy.</li></ul>
+<h3 aid:pstyle="BasicMoveName">Defiling</h3>
+<p aid:pstyle="NoIndent">When you <strong>choose to defile when casting a spell</strong>, the spell’s effects have greater range, duration, or potency. Casting of the spell results in plant life and the soil near the caster to be drained of life resulting in an area of black ash. The more barren the landscape or the higher the spell level the greater the area defiled. The exact effects of the spell and the area defiled depend on the situation and the spell and are up to the GM. If the area is already defiled then the defiled area expands. The GM will describe what effects the defiling assist will add before the spell is cast. Any negative effects of the casting are focused on the caster first.</p></div>
 <h2>Alignment</h2>
 <p aid:pstyle="InstructionsAfterHeader">Choose an alignment:</p>
 <div id="alignment"><h3 aid:pstyle="MoveName">Good</h3>
-<p aid:pstyle="NoIndent">Use magic to directly aid another.</p>
+<p aid:pstyle="NoIndent">Use preserving magic to directly aid another.</p>
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Discover something about a magical mystery.</p>
 <h3 aid:pstyle="MoveName">Evil</h3>
-<p aid:pstyle="NoIndent">Use magic to cause terror and fear.</p></div>
+<p aid:pstyle="NoIndent">Use defiling magic to cause terror and fear.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7+Str. You start with your spellbook (1 weight) and dungeon rations (5 uses, 1 weight). Choose your defenses:</p>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 7+Str. You start with your spellbook (1 weight) and desert rations (5 uses, 1 weight). Choose your defenses:</p>
 <ul><li aid:pstyle="Option">Leather armor (1 armor, 1 weight)</li>
-<li aid:pstyle="Option">Bag of books (5 uses, 2 weight) and 3 healing potions</li></ul>
+<li aid:pstyle="Option">Bag of papyrus scrolls (5 uses, 2 weight) and 3 healing fruits</li></ul>
 <p aid:pstyle="NoIndent">Choose your weapon:</p>
-<ul><li aid:pstyle="Option">Dagger (Hand, 1 weight)</li>
+<ul><li aid:pstyle="Option">Obsidian dagger (Hand, fragile, 1 weight)</li>
 <li aid:pstyle="Option">Staff (Close, two-handed, 1 weight)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">Healing potion (0 weight)</li>
+<ul><li aid:pstyle="Option">Healing fruit (0 weight)</li>
 <li aid:pstyle="Option">3 antitoxins (0 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bonds"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
 <p>_______________ will play an important role in the events to come. I have foreseen it!</p>
 <p>_______________ is keeping an important secret from me.</p>
-<p>_______________ is woefully misinformed about the world; I will teach them all that I can.</p></div>
+<p>_______________ is woefully misinformed about the world; I will teach them all that I can.</p>
+<p>_______________ has seen me use defiling magic.</p></div>
 <h2>Advanced Moves</h2>
 <div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves. You also add a new spell to your spellbook at each level.</p>
 <h3 aid:pstyle="MoveName">Prodigy</h3>
