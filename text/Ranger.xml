@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/">
 <h1>Ranger</h1>
-<Body><div id="intro"><p aid:pstyle="NoIndent">These city-born folk you travel with. Have they heard the call of the wolf? Felt the winds howl in the bleak deserts of the East? Have they hunted their prey with the bow and the knife like you? Hell no. That’s why they need you.</p>
-<p>Guide. Hunter. Creature of the wilds. You are these things and more. Your time in the wilderness may have been solitary until now, but the call of some greater thing—call it fate if you like—has cast your lot with these folk. Brave, they may be. Powerful and strong, too. You know the secrets of the spaces between, though.</p>
-<p>Without you, they’d be lost. Blaze a trail through the blood and dark, strider.</p></div>
+<Body><div id="intro"><p aid:pstyle="NoIndent">You’ve seen the lives people lead in the city-states, safe behind walls that choke the life out of all in their shadows. That’s not for you. You’ve seen the lives people lead in the scattered villages, terrified of what the desert might bring. That’s not for you either. No, you’ll blaze your own trail, learn the secrets of the wastes and survive.</p>
+<p>You are not the desert’s master. You are the desert. And no one can take that away from you.</p></div>
 <h2>Names</h2>
-<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Throndir, Elrosine, Aranwe, Celion, Dambrath, Lanethe</p> 
-<p aid:pstyle="NoIndent"><em>Human</em>: Jonah, Halek, Brandon, Emory, Shrike, Nora, Diana</p></div>
+<div id="names"><p aid:pstyle="NoIndent"><em>Elf</em>: Areela, Arien, Coranuu, Elas, Galek, Kiiretti, Miiri, Poros, Tala, Traako</p> 
+<p aid:pstyle="NoIndent"><em>Half-ling</em>: Anezka, Derlan, Fullgrin, Grelzen, Horga, Lokee, Pauk, Urga, Zivlil</p>
+<p aid:pstyle="NoIndent"><em>Thri-kreen</em>: K'kivir, K'kriq, Klik'l, Krikik, Mys'tll, Nnn'tkk</p></div>
 <h2>Look</h2>
 <div id="look"><p aid:pstyle="NoIndent">Choose one for each:</p>
 <p aid:pstyle="NoIndent">Wild Eyes, Sharp Eyes, or Animal Eyes</p>
@@ -20,21 +20,23 @@
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Elf</h3>
 <p aid:pstyle="NoIndent">When you undertake a perilous journey through wilderness whatever job you take you succeed as if you rolled a 10+.</p>
-<h3 aid:pstyle="MoveName">Human</h3>
-<p aid:pstyle="NoIndent">When you make camp in a dungeon or city, you don’t need to consume a ration.</p></div>
+<h3 aid:pstyle="MoveName">Half-ling</h3>
+<p aid:pstyle="NoIndent">In the wilderness, you never have to defy danger due to difficult terrain or unstable footing.</p>
+<h3 aid:pstyle="MoveName">Thri-kreen</h3>
+<p aid:pstyle="NoIndent">When someone in the party (not necessarily you) makes the take watch move, you treat a 7-9 result as a 10+ and a 6- result as 7-9.</p></div>
 <div id="classmoves"><p aid:pstyle="Instructions">You start with these moves:</p>
 <h3 aid:pstyle="BasicMoveName">Hunt and Track (Wis)</h3>
-<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+WIS. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
+<p aid:pstyle="NoIndent">When you <strong>follow a trail of clues left behind by passing creatures</strong>, roll+Wis. ✴On a 7+, you follow the creature’s trail until there’s a significant change in its direction or mode of travel. ✴On a 10+, you also choose 1:</p>
 <ul><li>Gain a useful bit of information about your quarry, the GM will tell you what</li>
 <li>Determine what caused the trail to end</li></ul>
 <h3 aid:pstyle="BasicMoveName">Called Shot</h3>
-<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+DEX.</p>
+<p aid:pstyle="NoIndent">When you <strong>attack a defenseless or surprised enemy at range</strong>, you can choose to deal your damage or name your target and roll+Dex.</p>
 <ul><li>Head ✴10+: As 7–9, plus your damage ✴7-9: They do nothing but stand and drool for a few moments.</li>
 <li>Arms ✴10+: As 7-9, plus your damage ✴7-9: They drop anything they’re holding.</li>
 <li>Legs ✴10+: As 7-9, plus your damage ✴7-9: They’re hobbled and slow moving.</li></ul>
 <h3 aid:pstyle="BasicMoveName">Animal Companion</h3>
-<p aid:pstyle="NoIndent">You have a supernatural connection with a loyal animal. You can’t talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:</p>
-<p aid:pstyle="Example">Wolf, cougar, bear, eagle, dog, hawk, cat, owl, pigeon, rat, mule</p>
+<p aid:pstyle="NoIndent">You have a psionic connection with a loyal animal. You can’t talk to it per se but it always acts as you wish it to. Name your animal companion and choose a species:</p>
+<p aid:pstyle="Example">kes'trekel, kirre, lirr, pulp bee, rasclinn, scorpion (gold), tigone, xerichous, zhackal</p>
 <p aid:pstyle="NoIndent">Choose a base:</p>
 <ul><li>Ferocity +2, Cunning +1, 1 Armor, Instinct +1</li>
 <li>Ferocity +2, Cunning +2, 0 Armor, Instinct +1</li>
@@ -59,27 +61,25 @@
 <div id="alignment"><h3 aid:pstyle="MoveName">Chaotic</h3>
 <p aid:pstyle="NoIndent">Free someone from literal or figurative bonds.</p>
 <h3 aid:pstyle="MoveName">Good</h3>
-<p aid:pstyle="NoIndent">Endanger yourself to combat an unnatural threat.</p>
+<p aid:pstyle="NoIndent">Guide others safely through the wastes.</p>
 <h3 aid:pstyle="MoveName">Neutral</h3>
 <p aid:pstyle="NoIndent">Help an animal or spirit of the wild.</p></div>
 <h2>Gear</h2>
-<div id="gear"><p aid:pstyle="NoIndent">Your Load is 11+Str. You start with dungeon rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle of arrows (3 ammo, 1 weight). Choose your armament:</p>
-<ul><li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and short sword (close, 1 weight)</li>
-<li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and spear (reach, 1 weight)</li></ul>
+<div id="gear"><p aid:pstyle="NoIndent">Your Load is 11+Str. You start with desert rations (5 uses, 1 weight), leather armor (1 armor, 1 weight), and a bundle of arrows (3 ammo, 1 weight). Choose your armament:</p>
+<ul><li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and a bone short sword (close, fragile, 1 weight)</li>
+<li aid:pstyle="Option">Hunter’s bow (near, far, 1 weight) and spear (reach, 1 weight)</li>
+<li aid:pstyle="Option">Gythka (close, reach, two-handed, 2 weight) and 3 chatchkas (thrown, near, return, 1 weight each)</li></ul>
 <p aid:pstyle="NoIndent">Choose one:</p>
-<ul><li aid:pstyle="Option">Adventuring gear (1 weight) and dungeon rations (1 weight)</li>
+<ul><li aid:pstyle="Option">Adventuring gear (1 weight) and desert rations (1 weight)</li>
 <li aid:pstyle="Option">Adventuring gear (1 weight) and bundle of arrows (3 ammo, 1 weight)</li></ul></div>
 <h2>Bonds</h2>
 <div id="bond"><p aid:pstyle="NoIndent">Fill in the name of one of your companions in at least one:</p>
-<p>I have guided _______________ before and they owe me for it.</p>
-<p>_______________ is a friend of nature, so I will be their friend as well.</p>
-<p>_______________ has no respect for nature, so I have no respect for them.</p>
+<p>I once guided _______________ safely through the wilds.</p>
+<p>_______________ wouldn't last a day alone in the wild.</p>
+<p>_______________ saved me when I was dying of thirst.</p>
 <p>_______________ does not understand life in the wild, so I will teach them.</p></div>
 <h2>Advanced Moves</h2>
-<div id="moves"><p aid:pstyle="InstructionsAfterHeader">You may take this move only if it is your first advancement.</p>
-<h3 aid:pstyle="MoveName">Half-Elven</h3>
-<p aid:pstyle="NoIndent">Somewhere in your lineage lies mixed blood and it begins to show its presence. You gain the elf starting move if you took the human one at character creation or vice versa.</p>
-<p aid:pstyle="Instructions">When you gain a level from 2-5, choose from these moves.</p>
+<div id="moves"><p aid:pstyle="InstructionsAfterHeader">When you gain a level from 2-5, choose from these moves.</p>
 <h3 aid:pstyle="MoveName">Wild Empathy</h3>
 <p aid:pstyle="NoIndent">You can speak with and understand animals.</p>
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
@@ -94,8 +94,8 @@
 <p aid:pstyle="NoIndent">When you volley you may spend extra ammo before rolling. For each point of ammo spent you may choose an extra target. Roll once and apply damage to all targets.</p>
 <h3 aid:pstyle="MoveName">Well-Trained</h3>
 <p aid:pstyle="NoIndent">Choose another training for your animal companion.</p>
-<h3 aid:pstyle="MoveName">God Amidst the Wastes</h3>
-<p aid:pstyle="NoIndent">Dedicate yourself to a deity (name a new one or choose one that’s already been established). You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.</p>
+<h3 aid:pstyle="MoveName">Cleric Amidst the Wastes</h3>
+<p aid:pstyle="NoIndent">Dedicate yourself to an element. You gain the commune and cast a spell cleric moves. When you select this move, treat yourself as a cleric of level 1 for using spells. Every time you gain a level thereafter, increase your effective cleric level by 1.</p>
 <h3 aid:pstyle="MoveName">Follow Me</h3>
 <p aid:pstyle="NoIndent">When you undertake a perilous journey you can take two roles. You make a separate roll for each.</p>
 <h3 aid:pstyle="MoveName">A Safe Place</h3>
@@ -110,9 +110,9 @@
 <h3 aid:pstyle="MoveName">Viper’s Fangs</h3>
 <p aid:pstyle="Requirement">Replaces: Viper’s Strike</p>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
-<h3 aid:pstyle="MoveName">Smaug’s Belly</h3>
+<h3 aid:pstyle="MoveName">Drake’s Belly</h3>
 <p aid:pstyle="NoIndent">When you know your target’s weakest point your arrows have 2 piercing.</p>
-<h3 aid:pstyle="MoveName">Strider</h3>
+<h3 aid:pstyle="MoveName">Wanderer</h3>
 <p aid:pstyle="Requirement">Replaces: Follow Me</p>
 <p aid:pstyle="NoIndent">When you undertake a perilous journey you can take two roles. Roll twice and use the better result for both roles.</p>
 <h3 aid:pstyle="MoveName">A Safer Place</h3>
