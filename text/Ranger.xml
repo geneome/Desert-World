@@ -83,7 +83,7 @@
 <h3 aid:pstyle="MoveName">Wild Empathy</h3>
 <p aid:pstyle="NoIndent">You can speak with and understand animals.</p>
 <h3 aid:pstyle="MoveName">Familiar Prey</h3>
-<p aid:pstyle="NoIndent">When you spout lore about a monster you use WIS instead of INT.</p>
+<p aid:pstyle="NoIndent">When you spout lore about a monster you use Wis instead of Int.</p>
 <h3 aid:pstyle="MoveName">Viper’s Strike</h3>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d4 damage for your off-hand strike.</p>
 <h3 aid:pstyle="MoveName">Camouflage</h3>
@@ -106,7 +106,7 @@
 <p aid:pstyle="NoIndent">You can speak with and understand any non-magical, non-planar creature.</p>
 <h3 aid:pstyle="MoveName">Hunter’s Prey</h3>
 <p aid:pstyle="Requirement">Replaces: Familiar Prey</p>
-<p aid:pstyle="NoIndent">When you spout lore about a monster you use WIS instead of INT. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
+<p aid:pstyle="NoIndent">When you spout lore about a monster you use Wis instead of Int. On a 12+, in addition to the normal effects, you get to ask the GM any one question about the subject.</p>
 <h3 aid:pstyle="MoveName">Viper’s Fangs</h3>
 <p aid:pstyle="Requirement">Replaces: Viper’s Strike</p>
 <p aid:pstyle="NoIndent">When you strike an enemy with two weapons at once, add an extra 1d8 damage for your off-hand strike.</p>
