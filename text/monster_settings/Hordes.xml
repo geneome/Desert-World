@@ -4,7 +4,7 @@
 <p aid:pstyle="MonsterStats">Bite (d6 damage)	7 HP	4 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Hive connection, Insectoid</p>
-<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. (Though there are winged tribes that look like wasps out in the Western Desert, I’ve heard. And some with great sawtooth arms like mantids in the forests of the east.) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
+<p aid:pstyle="MonsterDescription">With good cause, they say that these creatures (like all insects, really) are claimed by the powers of Law. They are order made flesh—a perfectly stratified society in which every larva, hatchling and adult knows its place in the great hive. The formian is some strange intersection of men and ants. (Though there are winged tribes that look like wasps in the Mekillot Mountains, I’ve heard. And some with great sawtooth arms like mantids in the Forest Ridge.) Tall, with a hard shell and a harder mind, these particular formians are the bottom caste. They work the hills and honeycombs with single-minded joy that can be known only by such an alien mind. <em>Instinct</em>: To follow orders</p>
 <ul><li>Raise the alarm</li>
 <li>Create value for the hive</li>
 <li>Assimilate</li></ul>
@@ -31,38 +31,38 @@
 <ul><li>Call every formian it spawned</li>
 <li>Release a half-formed larval mutation</li>
 <li>Organize and issue orders</li></ul>
-<p aid:pstyle="MonsterName">Gnoll Tracker	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterName">Belgoi Stalker	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Bow (d8 damage)		6 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Scent-tracker</p>
-<p aid:pstyle="MonsterDescription">Once they scent your blood, you can’t escape. Not without intervention from the gods, or the duke’s rangers at least. The desert scrub is a dangerous place to go exploring on your own and if you fall and break your leg or eat the wrong cactus, well, you’ll be lucky if you die of thirst before the gnolls find you. They prefer their prey alive, see—cracking bones and the screams of the dying lend a sort of succulence to a meal. Sickening creatures, no? They’ll hunt you, slow and steady, as you die. If you hear laughter in the desert wind, well, best pray Death comes to take you before they do. <em>Instinct</em>: To prey on weakness</p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Detect mind</p>
+<p aid:pstyle="MonsterDescription">Once they sense your mind using their little bells, you can’t escape. Not without a fight you may not win. The desert scrub is a dangerous place to go exploring on your own and if you fall and break your leg or eat the wrong cactus, well, you’ll be lucky if you die of thirst before the belgoi find you. They prefer their prey alive, see—cracking bones and the screams of the dying lend a sort of succulence to a meal. Sickening creatures, no? They’ll hunt you, slow and steady, as you die. If you hear a bell ringing in the desert wind, well, best pray Death comes to take you before they do. <em>Instinct</em>: To prey on weakness</p>
 <ul><li>Doggedly track prey</li>
 <li>Strike at a moment of weakness</li></ul>
-<p aid:pstyle="MonsterName">Gnoll Emissary	<span aid:cstyle="Tags">Solitary, Divine, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterName">Belgoi Hunter	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Ceremonial dagger (d10+2 damage)	18 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Scent</p>
-<p aid:pstyle="MonsterDescription">Oh, an emissary! How nice. I suspect you didn’t know the gnolls had ambassadors, did you? Yes, even these mangy hyenas have to make nice sometimes. No, no, not with us. Nor the dwarves, neither. No, the emissary is the one, among his packmates, who trucks directly with their dripping demon lord. Frightening? Too right. Every hound has a master with his hand on the chain. This gnoll hears his master’s voice. Hears it and obeys. <em>Instinct</em>: To share divine insight</p>
-<ul><li>Pass on demonic influence</li>
-<li>Drive the pack into a fervor</li></ul>
-<p aid:pstyle="MonsterName">Gnoll Alpha	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Detect mind</p>
+<p aid:pstyle="MonsterDescription">Oh, an hunter! How nice. I suspect you didn’t know the belgoi didn't consider themselves all hunters, did you? Yes, they all hunt, but with a true hunter there is a terrible difference. The hunter is the one who, among his tribe, hunts to satisfy the strange rituals of the belgoi. Frightening? Too right. <em>Instinct</em>: To carry out the rituals of the tribe</p>
+<ul><li>Inflict suffering on others</li>
+<li>Drive the tribe into a fervor</li></ul>
+<p aid:pstyle="MonsterName">Belgoi Caller	<span aid:cstyle="Tags">Solitary, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Sword (b[2d10] damage, 1 piercing)		12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Scent</p>
-<p aid:pstyle="MonsterDescription">Every pack has its top dog. Bigger, maybe—that’d be the simplest way. Often, though, with these lank and filthy mutts, it’s not about size or sharp teeth but about cruelty. About a willingness to kill your brothers and eat them while the pack watches. Willingness to desecrate the pack in a way that cows them to you. If they’re that awful to each other—to their living kin—think about how they must view us. It’s hard to be mere meat in a land of carnivores. <em>Instinct</em>: To drive the pack</p>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Detect mind</p>
+<p aid:pstyle="MonsterDescription">Every tribe has a leader. With these terrible creatures, being leader isn't about size or sharp teeth but about cruelty. About a willingness to kill your brothers and eat them while the tribe watches. Willingness to desecrate the tribe in a way that cows them to you. If they’re that awful to each other—to their living kin—think about how they must view us. It’s hard to be mere meat in a land of carnivores. <em>Instinct</em>: To drive the tribe</p>
 <ul><li>Demand obedience</li>
-<li>Send the pack to hunt</li></ul>
-<p aid:pstyle="MonsterName">Orc Bloodwarrior	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
+<li>Send the tribe to hunt</li></ul>
+<p aid:pstyle="MonsterName">Gith Bloodwarrior	<span aid:cstyle="Tags">Horde, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Jagged blade (d6+2 damage, 1 piercing)	3 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
-<p aid:pstyle="MonsterDescription">The orcish horde is a savage, bloodthirsty, and hateful collection of tribes. There are myths and stories that tell of the origin of their rage—a demon curse, a homeland destroyed, elven magic gone wrong—but the truth has been lost to time. Every able orc, be it man or woman, child or elder, swears fealty to the warchief and their tribe and bears the jagged blade of a bloodwarrior. Men are trained to fight and kill—orcs are born to it. <em>Instinct</em>: To fight</p>
+<p aid:pstyle="MonsterDescription">The gith horde is a savage, bloodthirsty, and hateful collection of tribes. There are myths and stories that tell of the origin of their rage—a demon curse, a homeland destroyed, magic gone wrong—but the truth has been lost to time. Every able gith, be it man or woman, child or elder, swears fealty to the warchief and their tribe and bears the jagged blade of a bloodwarrior. Men are trained to fight and kill—gith are born to it. <em>Instinct</em>: To fight</p>
 <ul><li>Fight with abandon</li>
 <li>Revel in destruction</li></ul>
-<p aid:pstyle="MonsterName">Orc Berserker	<span aid:cstyle="Tags">Solitary, Large, Divine, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterName">Gith Berserker	<span aid:cstyle="Tags">Solitary, Large, Divine, Intelligent, Organized</span></p>
 <p aid:pstyle="MonsterStats">Cleaver (d10+5 damage)	20 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mutations</p>
-<p aid:pstyle="MonsterDescription">Stained in the unholy ritual of Anointing By The Night’s Blood, some warriors of the horde rise to a kind of twisted knighthood. They trade their sanity for this honor, stepping halfway into a world of swirling madness. This makes berserkers the greatest of their tribe, though as time passes, the chaos spreads. The rare berserker that lives more than a few years becomes horrible and twisted, growing horns or an extra arm with which to grasp the iron cleavers they favor in battle. <em>Instinct</em>: To rage</p>
+<p aid:pstyle="MonsterDescription">Stained in the unholy ritual of Anointing By The Night’s Blood, some warriors of the horde rise to a kind of twisted knighthood. They trade their sanity for this honor, stepping halfway into a world of swirling madness. This makes berserkers the greatest of their tribe, though as time passes, the chaos spreads. The rare berserker that lives more than a few years becomes horrible and twisted. <em>Instinct</em>: To rage</p>
 <ul><li>Fly into a frenzy</li>
 <li>Unleash chaos</li></ul>
 <p aid:pstyle="MonsterName">Orc Breaker	<span aid:cstyle="Tags">Solitary, Large</span></p>
