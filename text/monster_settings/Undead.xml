@@ -11,10 +11,10 @@
 <p aid:pstyle="MonsterStats">Scream (d10 damage)	16 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
-<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A victim of betrayal (often by a loved one) the banshee makes known her displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help her get her vengeance, they say she might grant rewards. Whether the affection of a spurned spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To get revenge </p>
+<p aid:pstyle="MonsterDescription">Come away from an encounter with one of these vengeful spirits merely deaf and count yourself lucky for the rest of your peaceful, silent days. Often mistaken at first glance for a ghost or wandering spirit, the banshee reveals a far more deadly talent for sonic assault when angered. And her anger comes easy. A dwarf who failed to fullfill his focus, the banshee makes known his displeasure with a roar or scream that can putrefy flesh and rend the senses. If you can help fullfill the focus he failed to complete in life, they say he might grant rewards. Whether the affection of a tortured spirit is a thing you’d want, well, that’s another question. <em>Instinct</em>: To share the agony of failure </p>
 <ul><li>Drown out all other sound with a ceaseless scream</li>
 <li>Unleash a skull-splitting noise</li>
-<li>Disappear into the mists</li></ul>
+<li>Disappear into the Wastes</li></ul>
 <p aid:pstyle="MonsterName">Devourer	<span aid:cstyle="Tags">Solitary, Large, Intelligent, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Smash (d10+3 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
@@ -44,13 +44,13 @@
 <p aid:pstyle="MonsterName">Ghoul	<span aid:cstyle="Tags">Group</span></p>
 <p aid:pstyle="MonsterStats">Talons (d8 damage, 1 piercing)	10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Messy</span></p>
-<p aid:pstyle="MonsterDescription">Hunger. Hunger hunger hunger. Desperate clinging void-stomach-emptiness hunger. Sharp talons to rend flesh and teeth to tear and crack bones and suck out the soft marrow inside. Vomit up hate and screaming jealous anger and charge on twisted legs—scare the living flesh and sweeten it ever more with the stink of fear. Feast. Peasant or knight, wizard, sage, prince, or priest all make for such delicious meat. <em>Instinct</em>: To eat</p>
+<p aid:pstyle="MonsterDescription">Hunger. Hunger hunger hunger. Desperate clinging void-stomach-emptiness hunger. Sharp talons to rend flesh and teeth to tear and crack bones and suck out the soft marrow inside. Vomit up hate and screaming jealous anger and charge on twisted legs—scare the living flesh and sweeten it ever more with the stink of fear. Feast. Slave or noble, wizard, sage, or templar all make for such delicious meat. <em>Instinct</em>: To eat</p>
 <ul><li>Gnaw off a body part</li>
 <li>Gain the memories of their meal</li></ul>
-<p aid:pstyle="MonsterName">Lich	<span aid:cstyle="Tags">Solitary, Magical, Intelligent, Cautious, Hoarder, Construct</span></p>
+<p aid:pstyle="MonsterName">Kaisharga	<span aid:cstyle="Tags">Solitary, Magical, Intelligent, Cautious, Hoarder, Construct</span></p>
 <p aid:pstyle="MonsterStats">Magical Force (d10+3 damage, ignores armor)	16 HP	5 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">“At the end, they give you a scroll and a jeweled medallion to commemorate your achievements. Grand Master of Abjuration, I was called, then. Old man. Weak and wizened and just a bit too senile for them—those jealous halfwits. Barely apprentices, and they called themselves The New Council. It makes me sick, or would, if I still could be. They told me it was an honor and I would be remembered forever. It was like listening to my own eulogy. Fitting, in a way, don’t you think? It took me another ten years to learn the rituals and another four to collect the material and you see before you the fruits of my labor. I endure. I live. I will see the death of this age and the dawn of the next. It pains me to have to do this, but, you see, you cannot be permitted to endanger my research. When you meet Death, say hello for me, would you?” <em>Instinct</em>: To un-live</p>
+<p aid:pstyle="MonsterDescription">“You spend years sculking from prying eyes, then even more hiding your power from those who fear it. There's never enough time for research, to perfect the art, to become truly great. The next thing you realize, you are tired, old, and weary. It took me ten years to learn the rituals and another four to collect the material and you see before you the fruits of my labor. I endure. I live. I will see the death of this age and the dawn of the next. It pains me to have to do this, but, you see, you cannot be permitted to endanger my research. When I send you to the Gray, at least you'll have the company of all the others that have disturbed me.” <em>Instinct</em>: To un-live</p>
 <ul><li>Cast a perfected spell of death or destruction</li>
 <li>Set a ritual or great working into motion</li>
 <li>Reveal a preparation or plan already completed</li></ul>
@@ -60,7 +60,7 @@
 <p aid:pstyle="MonsterDescription">You never get away with murder. Not really. You might evade the law, might escape your own conscience in the end and die, fat and happy in a mansion somewhere. When the gods themselves notice your misdeeds, though, that’s where your luck runs out and a mohrg is born. The mohrg is a skeleton—flesh and skin and hair all rotted away. All but their guts—their twisted, knotted guts still spill from their bellies, magically preserved and often wrapped, noose-like, about their necks. They do not think, exactly, but they suffer. They kill and wreak havoc and their souls do not rest. Such is the punishment, both on them for the crime and on all mankind for daring to murder one another. The gods are just and they are harsh. <em>Instinct</em>: To wreak havoc</p>
 <ul><li>Rage</li>
 <li>Add to their collection of guts</li></ul>
-<p aid:pstyle="MonsterName">Mummy	<span aid:cstyle="Tags">Solitary, Divine, Hoarder</span></p>
+<p aid:pstyle="MonsterName">Meorty	<span aid:cstyle="Tags">Solitary, Divine, Hoarder</span></p>
 <p aid:pstyle="MonsterStats">Smash (d10+2 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">There are cultures who revere the dead. They do not bury them in the cold earth and mourn their passing. These people spend weeks preparing the sacred corpse for its eternal rest. Temples, pyramids, and great vaults of stone are built to house them and are populated with slaves, pets and gold. The better to live in luxury beyond the Black Gates, no? Do not be tempted by these vaults—oh, I know that greedy look! Heed my warnings or risk a terrible fate, for the honored dead do not wish to be disturbed. Thievery will only raise their ire—don’t say I did not warn you! <em>Instinct</em>: To enjoy eternal rest</p>
@@ -99,16 +99,16 @@
 <p aid:pstyle="MonsterStats">Withering touch (d10 damage)	12 HP	0 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Insubstantial</p>
-<p aid:pstyle="MonsterDescription">For some folk, when they pass, Death himself cannot release their grip on the places they love most. A priest whose devotion to the temple is greater than that of his god. A banking guild official who cannot bear to part with his vault. A drunk and his favorite tavern. All make excellent spectres. They act not out of the usual hunger that drives the undead, but jealousy. Jealousy that anyone else might come to love their home as much as they do and drive them out. These places belong to them and these invisible spirits will kill before they’ll let anyone send them to their rest. <em>Instinct</em>: To drive life from a place</p>
+<p aid:pstyle="MonsterDescription">For some folk, when they pass, the Gray cannot release their grip on the places they love most. An ancient priest whose devotion to his silent god is unyielding. A merchant who cannot bear to part with his vault. A drunk and his favorite tavern. All make excellent spectres. They act not out of the usual hunger that drives the undead, but jealousy. Jealousy that anyone else might come to love their home as much as they do and drive them out. These places belong to them and these invisible spirits will kill before they’ll let anyone send them to their rest. <em>Instinct</em>: To drive life from a place</p>
 <ul><li>Turn their haunt against a creature</li>
 <li>Bring the environment to life</li></ul>
-<p aid:pstyle="MonsterName">Vampire	<span aid:cstyle="Tags">Group, Stealthy, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterName">T'liz	<span aid:cstyle="Tags">Group, Stealthy, Organized, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Supernatural force (d8+5 damage, 1 piercing)	10 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Changing form, ancient mind</p>
-<p aid:pstyle="MonsterDescription">We fear them, because they call to us. So much like us, or how we hope to be: beautiful, passionate, and powerful. They are drawn to us for what they cannot be: warm, kind, and alive. These tormented souls can only hope, at most, to pass their dreadful curse along. Every time they feed they run the risk of passing along their torture to another and in each one lives the twisted seed of its creator. Vampires beget vampires. Suffering begets suffering. Do not be drawn in by their seduction or you may be given their gift—a crown of shadows and the chains of eternal undying grief. <em>Instinct</em>: To manipulate</p>
+<p aid:pstyle="MonsterDescription">So much like us, and yet tainted. Their spirits have endured through defiling magic, while their bodies are ever on the verge of wasting away. They crave knowledge and power, but also the essence of the living to extend their bodies that much longer.<em>Instinct</em>: To manipulate</p>
 <ul><li>Charm someone</li>
-<li>Feed on their blood</li>
+<li>Feed on their essence</li>
 <li>Retreat to plan again</li></ul>
 <p aid:pstyle="MonsterName">Wight-Wolf	<span aid:cstyle="Tags">Horde, Organized, Intelligent</span></p>
 <p aid:pstyle="MonsterStats">Pounce (d6+1 damage 1 piercing)	7 HP	1 Armor</p>

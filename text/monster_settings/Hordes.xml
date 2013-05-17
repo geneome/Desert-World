@@ -111,11 +111,10 @@
 <ul><li>Start a war</li>
 <li>Make a show of power</li>
 <li>Enrage the tribes</li></ul>
-<p aid:pstyle="MonsterName">Triton Spy	<span aid:cstyle="Tags">Solitary, Stealthy, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Trident (w[2d10] damage)	12 HP	2 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic</p>
-<p aid:pstyle="MonsterDescription">A fishing village caught one in their net, some time ago. Part a man and part some scaly sea creature, it spoke in a broken, spy-learned form of the common tongue before it suffocated in the open air. It told the fishermen of a coming tide, an inescapable swell of the power of some deep-sea god and that the triton empire would rise up and drag the land down into the ocean. The tale spread and now, when fishermen sail the choppy seas, they watch and worry that the dying triton’s tales were true. That there are powers deep below that watch and wait. They fear the tide is coming in. <em>Instinct</em>: To spy on the surface world</p>
+<p aid:pstyle="MonsterName">Thri-kreen Spy	<span aid:cstyle="Tags">Solitary, Stealthy, Intelligent, Organized</span></p>
+<p aid:pstyle="MonsterStats">Gythka (w[2d10] damage)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterDescription">A kreen pack was defeated during a failed attack on a small caravan. The caravan survivors caught one alive, but barely so. Through its clicks and broken common and in a state of delerium it told the caravan of the greatest of hunting packs. It described an inescapable swell of power of some great kreen empire would rise up and hunt freely across the Tablelands. The tale spread and now, when encountering thri-kreen, men watch and worry that the dying thri-kreen's tale was true. That there are powers beyond the Tablelands that watch and wait. They fear that the mantis people thought so little of might be more than what they seem. <em>Instinct</em>: To spy on the Tablelands</p>
 <ul><li>Reveal their secrets</li>
 <li>Strike at weakness</li></ul>
 <p aid:pstyle="MonsterName">Triton Tidecaller	<span aid:cstyle="Tags">Group, Divine, Magical, Intelligent</span></p>
@@ -127,17 +126,15 @@
 <li>Command beasts of the sea</li>
 <li>Reveal divine proclamation</li></ul>
 <p aid:pstyle="MonsterName">Triton Sub-Mariner	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Harpoon (b[2d8] damage)	6 HP	3 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic</p>
+<p aid:pstyle="MonsterStats">Gythka (b[2d8] damage)	6 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterDescription">The triton are not a militant race by nature. They shy away from battle except when the sahuagin attack, and then they only defend themselves and retreat into the depths where their foes can’t follow. This trend begins to change. As the tidecallers come to rally their people, some triton men and women take up arms. They call these generals “sub-mariners” and build for them armor of shells and hardened glass. They swim in formation, wielding pikes and harpoons and attack the crews of ships that wander too far from port. Watch for their pennants of kelp on the horizon and the conch-cry of a call to battle and keep, if you can, your boats near shore. <em>Instinct</em>: To wage war</p>
 <ul><li>Lead tritons to battle</li>
 <li>Pull them beneath the waves</li></ul>
-<p aid:pstyle="MonsterName">Triton Noble	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Trident (d8 damage)	6 HP	2 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Near, Far</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic</p>
-<p aid:pstyle="MonsterDescription">The triton ruling houses were chosen, they say, at the dawn of time. Granted lordship over all the races of the sea by some now-forgotten god. These bloodlines continue, passing rulership from father to daughter and mother to son through the ages. Each is allowed to rule their city in whatever way they choose—some alone or with their spouses, others in council of brothers and sisters. In ages past, they were known for their sagacity and bloodlines of even-temper were respected above all else. The tidecallers prophecy is changing that: nobles are expected to be strong, not wise. The nobles have begun to respond, and it is feared by some that the ancient blood is changing forever. It may be too late to turn back. Time and tide wait for none. <em>Instinct</em>: To lead</p>
-<ul><li>Stir tritons to war</li>
-<li>Call reinforcements</li></ul>
+<p aid:pstyle="MonsterName">Thri-kreen Thrower	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Chatkcha (d8 damage)	6 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
+<p aid:pstyle="MonsterDescription">The kreen of the Tablelands make look alike, but they have some differnces. While one group may attack with gythkas, which is what one would expect, just before their ranks meet yours comes chatkcha raining down. <em>Instinct</em>: To hunt</p>
+<ul><li>Protect the pack</li>
+<li>Feed the pack</li></ul>
 </Body></Root>
