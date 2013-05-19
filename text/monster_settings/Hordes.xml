@@ -111,30 +111,24 @@
 <ul><li>Start a war</li>
 <li>Make a show of power</li>
 <li>Enrage the tribes</li></ul>
+<p aid:pstyle="MonsterName">Thri-kreen Warrior	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Gythka (b[2d8] damage) or Chatkcha (d8 damage)	6 HP	3 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach or Near, Far</span></p>
+<p aid:pstyle="MonsterDescription">The thri-kreen are not a militant race by nature. They only appear to be because they attack to hunt prey... often. <em>Instinct</em>: To hunt</p>
+<ul><li>Protect the pack</li>
+<li>Feed the pack</li></ul>
 <p aid:pstyle="MonsterName">Thri-kreen Spy	<span aid:cstyle="Tags">Solitary, Stealthy, Intelligent, Organized</span></p>
-<p aid:pstyle="MonsterStats">Gythka (w[2d10] damage)	12 HP	2 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
+<p aid:pstyle="MonsterStats">Gythka (w[2d10] damage) or Chatkcha (d8 damage)	12 HP	2 Armor</p>
+<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach or Near, Far</span></p>
 <p aid:pstyle="MonsterDescription">A kreen pack was defeated during a failed attack on a small caravan. The caravan survivors caught one alive, but barely so. Through its clicks and broken common and in a state of delerium it told the caravan of the greatest of hunting packs. It described an inescapable swell of power of some great kreen empire would rise up and hunt freely across the Tablelands. The tale spread and now, when encountering thri-kreen, men watch and worry that the dying thri-kreen's tale was true. That there are powers beyond the Tablelands that watch and wait. They fear that the mantis people thought so little of might be more than what they seem. <em>Instinct</em>: To spy on the Tablelands</p>
 <ul><li>Reveal their secrets</li>
 <li>Strike at weakness</li></ul>
-<p aid:pstyle="MonsterName">Triton Tidecaller	<span aid:cstyle="Tags">Group, Divine, Magical, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Waves (d8+2 damage, ignores armor)	6 HP	2 Armor</p>
+<p aid:pstyle="MonsterName">Thri-kreen Caller	<span aid:cstyle="Tags">Group, Elemental, Magical, Intelligent</span></p>
+<p aid:pstyle="MonsterStats">Elemental Force (d8+2 damage, ignores armor)	6 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Aquatic, Mutations</p>
-<p aid:pstyle="MonsterDescription">Part priest, part outcast among their kind, the tidecaller speaks with the voice of the deeps. They can be known by their mutations—transparent skin, perhaps, or rows of teeth like a shark. Glowing eyes or fingertips, angler-lights in the darkness of their underwater kingdom. They speak in a strange tongue that can call and command creatures of the sea. They ride wild hippocampi and cast strange spells that rot through the wooden decks of ships or encrust them with barnacles heavy enough to sink. It is the tidecallers who come, now, back to the cities of the triton, bearing word that the prophecy is coming to pass. The world of men will drown in icy brine. The tidecallers speak and the lords begin to listen. <em>Instinct</em>: To bring on The Flood</p>
-<ul><li>Cast a spell of water and destruction</li>
-<li>Command beasts of the sea</li>
-<li>Reveal divine proclamation</li></ul>
-<p aid:pstyle="MonsterName">Triton Sub-Mariner	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Gythka (b[2d8] damage)	6 HP	3 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
-<p aid:pstyle="MonsterDescription">The triton are not a militant race by nature. They shy away from battle except when the sahuagin attack, and then they only defend themselves and retreat into the depths where their foes can’t follow. This trend begins to change. As the tidecallers come to rally their people, some triton men and women take up arms. They call these generals “sub-mariners” and build for them armor of shells and hardened glass. They swim in formation, wielding pikes and harpoons and attack the crews of ships that wander too far from port. Watch for their pennants of kelp on the horizon and the conch-cry of a call to battle and keep, if you can, your boats near shore. <em>Instinct</em>: To wage war</p>
-<ul><li>Lead tritons to battle</li>
-<li>Pull them beneath the waves</li></ul>
-<p aid:pstyle="MonsterName">Thri-kreen Thrower	<span aid:cstyle="Tags">Group, Organized, Intelligent</span></p>
-<p aid:pstyle="MonsterStats">Chatkcha (d8 damage)	6 HP	2 Armor</p>
-<p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Near, Far</span></p>
-<p aid:pstyle="MonsterDescription">The kreen of the Tablelands make look alike, but they have some differnces. While one group may attack with gythkas, which is what one would expect, just before their ranks meet yours comes chatkcha raining down. <em>Instinct</em>: To hunt</p>
-<ul><li>Protect the pack</li>
-<li>Feed the pack</li></ul>
+<p aid:pstyle="MonsterDescription">Part priest, part outcast among their kind, the caller speaks with the voice of the winds, of the mountains, of the sun and the rain. They can be known by their mutations—stone chitin, perhaps, or gossamer insect wings. They speak in a strange tongue that can call and command creatures of the Wastes. They commune with the land around them and cast strange spells that hide oases from travelers and defilers alike. It is the Callers who sense spirits of the land wispering of vast plain where an empire of thri-kreen dwell. Are these tidings good or do they forebode a great danger to the land? The Callers speak but few hear them. <em>Instinct</em>: To protect the land</p>
+<ul><li>Prevent non-kreen from finding (and destroying) fertile lands and oases</li>
+<li>Command beasts of the Wastes</li>
+<li>Reveal the existance of a kreen empire to thri-kreen</li></ul>
 </Body></Root>
