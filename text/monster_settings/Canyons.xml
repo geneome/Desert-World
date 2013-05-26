@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Cavern Dwellers</h1>
+<Root xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>Canyon Dwellers</h1>
 <Body><p aid:pstyle="MonsterName">Ankheg	<span aid:cstyle="Tags">Group, Large</span></p>
 <p aid:pstyle="MonsterStats">Bite (d8+1 damage)	10 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
@@ -30,7 +30,7 @@
 <p aid:pstyle="MonsterName">Dwarven Warrior	<span aid:cstyle="Tags">Horde, Organized</span></p>
 <p aid:pstyle="MonsterStats">Axe (d6 damage)	7 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were male and all were of this ilk: stoic and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-hungry dwarves who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the ncient Dwarven realm. Earn their trust and you’ve an ally for life. Earn their ire and you’re not likely to regret it very long. <em>Instinct</em>: To defend</p>
+<p aid:pstyle="MonsterDescription">For ages, men believed all dwarves were male and all were of this ilk: stoic and proud warriors. Axe-wielding and plate-wearing. Stout bearded battle-hungry dwarves who would push them, time and time again, back up out of their mines and tunnels with ferocity. It just goes to show how little men know about the elder races. These folk are merely a vanguard, and they bravely do their duty to protect the riches of the ancient Dwarven realm. Earn their trust and you’ve an ally for life. Earn their ire and you’re not likely to regret it very long. <em>Instinct</em>: To defend</p>
 <ul><li>Drive them back</li>
 <li>Call up reinforcements</li></ul>
 <p aid:pstyle="MonsterName">Earth Elemental	<span aid:cstyle="Tags">Solitary, Huge</span></p>
@@ -87,7 +87,7 @@
 <p aid:pstyle="MonsterStats">Tentacles (d10+3 damage)	20 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach, Forceful</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Filth Fever</p>
-<p aid:pstyle="MonsterDescription">The mating call of the otyugh is a horrible, blaring cry that sounds like a cross between an elephant dying and an over-eager vulture. The otyugh spends much of its time partly submerged in filthy water and prefers eating garbage over any other food. As a result, it often grows fat and strong on the offal of orcs, goblins and other cave-dwelling sub-humans. Get too close, however, and you’ll have one of its barbed tentacles dragging you into that soggy, razor-toothed maw. If you get away with your life, best get to a doctor, or your victory may be short lived. <em>Instinct</em>: To befoul</p>
+<p aid:pstyle="MonsterDescription">The mating call of the otyugh is a horrible, blaring cry that sounds like a cross between an elephant dying and an over-eager vulture. The otyugh spends much of its time partly submerged in filthy water and prefers eating garbage over any other food. As a result, it often grows fat and strong on the offal of gith, hejkin and other cave-dwelling humanoid races. Get too close, however, and you’ll have one of its barbed tentacles dragging you into that soggy, razor-toothed maw. If you get away with your life, best get to a doctor, or your victory may be short lived. <em>Instinct</em>: To befoul</p>
 <ul><li>Infect someone with filth fever</li>
 <li>Fling someone or something</li></ul>
 <p aid:pstyle="MonsterName">Maggot-Squid	<span aid:cstyle="Tags">Horde, Small</span></p>
@@ -107,7 +107,7 @@
 <p aid:pstyle="MonsterStats">Bite (d10+1 damage)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Rock-like Flesh</p>
-<p aid:pstyle="MonsterDescription">Evolutionary happenstance has created a clever underground predator. Disguised as a rocky formation—most often a stalactite or stalagmite—the roper waits for its prey to wander by. When it does, whether it’s a rat, a goblin or a foolhardy adventurer, a mass of thin, whipping tentacles erupts from the thing’s hide. A hundred lashes in the blink of an eye and the stunned prey is being dragged into the roper’s mouth. Surprisingly effective for a thing that looks like a rock. <em>Instinct</em>: To ambush</p>
+<p aid:pstyle="MonsterDescription">Evolutionary happenstance has created a clever underground predator. Disguised as a rocky formation—most often a stalactite or stalagmite—the roper waits for its prey to wander by. When it does, whether it’s a rat, a hejkin or a foolhardy adventurer, a mass of thin, whipping tentacles erupts from the thing’s hide. A hundred lashes in the blink of an eye and the stunned prey is being dragged into the roper’s mouth. Surprisingly effective for a thing that looks like a rock. <em>Instinct</em>: To ambush</p>
 <ul><li>Ensnare the unsuspecting</li>
 <li>Disarm a foe</li>
 <li>Chew on someone</li></ul>
@@ -129,7 +129,7 @@
 <p aid:pstyle="MonsterName">Troglodyte	<span aid:cstyle="Tags">Group, Organized</span></p>
 <p aid:pstyle="MonsterStats">Club (d8 damage)		10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterDescription">Long-forgotten, our last remaining ancestors dwell in caves in the wild parts of the world. Driven away by our cities and villages, our iron swords and our fire, these ape-men eat their meat raw with sharp-nailed hands and jagged teeth. They strike out at frontier villages wielding clubs and in overwhelming numbers to seize cattle, tools, and poor prisoners to drag into the hills. Known for their viciousness and their stink, they’re an old and dying race we’d all sooner forget existed. <em>Instinct</em>: To prey on civilization</p>
+<p aid:pstyle="MonsterDescription">Long-forgotten, our last remaining ancestors dwell in caves in the wild parts of the world. Driven away by our cities and villages, our swords and our fire, these ape-men eat their meat raw with sharp-nailed hands and jagged teeth. They strike out at villages of the Wastes wielding clubs and in overwhelming numbers to seize erdlu, tools, and poor prisoners to drag into the hills. Known for their viciousness and their stink, they’re an old and dying race we’d all sooner forget existed. <em>Instinct</em>: To prey on civilization</p>
 <ul><li>Raid and retreat</li>
 <li>Use scavenged weapons or magic</li></ul>
 </Body></Root>

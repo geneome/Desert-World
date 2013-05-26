@@ -26,14 +26,14 @@
 <p aid:pstyle="MonsterStats">Acid (d10+1 damage ignores armor)	16 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Digest acid secretion</p>
-<p aid:pstyle="MonsterDescription">It’s okay, magical experimentation is a messy science. For every beautiful pegasus there’s a half-done creature that wasn’t quite right. We understand. The goblin-elephant you thought was such a great idea. The Gelatinous Drake. Just examples. No judgement here. Anyway, we’ve got something for that. We call it the Digester. Yes, just like it sounds. Strange looking, I know, and the smell isn’t the best, but this thing—it’ll eat magic like Svenloff the Stout drinks ale. Next time one of these unfortunate accidents occurs, just point the Digester at it and all your troubles drain away. Just keep an eye on it. Damn thing ate my wand last week. <em>Instinct</em>: To digest</p>
+<p aid:pstyle="MonsterDescription">It’s okay, magical experimentation is a messy science. For every beautiful pegasus there’s a half-done creature that wasn’t quite right. We understand. The gith-mekillot you thought was such a great idea. The Gelatinous Drake. Just examples. No judgement here. Anyway, we’ve got something for that. We call it the Digester. Yes, just like it sounds. Strange looking, I know, and the smell isn’t the best, but this thing—it’ll eat magic like Svenloff the Stout drinks ale. Next time one of these unfortunate accidents occurs, just point the Digester at it and all your troubles drain away. Just keep an eye on it. Damn thing ate my wand last week. <em>Instinct</em>: To digest</p>
 <ul><li>Eat away at something</li>
 <li>Draw sustenance</li></ul>
 <p aid:pstyle="MonsterName">Ethereal Filcher	<span aid:cstyle="Tags">Solitary, Devious, Planar</span></p>
 <p aid:pstyle="MonsterStats">Stolen dagger (w[2d8] damage)	12 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Burrowing</p>
-<p aid:pstyle="MonsterDescription">Things go missing. A sock, a silver spoon, your dead mother’s bones. We blame the maid, or bad luck, or just a moment of stupid forgetfulness and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep Ethereal plane from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some mad pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>
+<p aid:pstyle="MonsterDescription">Things go missing. A sock, a bone spoon, your dead mother’s bones. We blame the maid, or bad luck, or just a moment of stupid forgetfulness and we move on. We never get to see the real cause of these problems. The spidery thing with human hands and eyes as blue as the deep Ethereal plane from whence the creature comes. We never see the nest it makes of astral silver webbing and stolen objects arranged in some mad pattern. We never watch it assemble its collection of halfling finger-bones, stolen from the hands of the sleeping. We’re lucky, that way. <em>Instinct</em>: To steal</p>
 <ul><li>Take something important to its planar lair</li>
 <li>Retreat to the Ethereal plane</li>
 <li>Use an item from its lair</li></ul>
@@ -85,20 +85,20 @@
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">Clawed monstrousities that burst from the ground to attack and drag their victims down with them just as quick, these creatures were thought to once be men who were touched by a terrible curse. <em>Instinct</em>: To hunt</p>
 <ul><li>Strike from darkness</li></ul>
-<p aid:pstyle="MonsterName">Pegasus	<span aid:cstyle="Tags">Group, Construct</span></p>
-<p aid:pstyle="MonsterStats">Sharp hooves (d8 damage)	10 HP	1 Armor</p>
+<p aid:pstyle="MonsterName">Pterrax	<span aid:cstyle="Tags">Group, Construct</span></p>
+<p aid:pstyle="MonsterStats">Sharp claws (d8 damage)	10 HP	1 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Wings</p>
-<p aid:pstyle="MonsterDescription">Don’t go thinking that every creature not natural-born is a horrible abomination. Don’t imagine for a second that they’re all tentacles and screaming and blood or whatever. Take this noble beast, for example. Lovely thing, isn’t it? A fine white horse with the wings of a swan. Don’t look like it ought to be able to fly, but it does. The elves work miracles, in their own way. They breed true—that’s the purity of elf-magic at work. Hatching from little crystal eggs and bonded with their riders for life. There’s still some beauty in the world, mark my words. <em>Instinct</em>: To carry aloft</p>
+<p aid:pstyle="MonsterDescription">Don’t go thinking that every creature not natural-born is a horrible abomination. Don’t imagine for a second that they’re all tentacles and screaming and blood or whatever. Take this noble beast, for example. Lovely thing, isn’t it? Hatching from little crystal eggs and bonded with their riders for life. There’s still some beauty in the world, mark my words. <em>Instinct</em>: To carry aloft</p>
 <ul><li>Carry a rider into the air</li>
 <li>Give their rider an advantage</li></ul>
-<p aid:pstyle="MonsterName">Rust Monster	<span aid:cstyle="Tags">Group, Construct</span></p>
-<p aid:pstyle="MonsterStats">Corrosive touch (d8 damage, ignores armor)	6 HP	3 Armor</p>
+<p aid:pstyle="MonsterName">Gaj	<span aid:cstyle="Tags">Group, Construct</span></p>
+<p aid:pstyle="MonsterStats">Mind touch (d8 damage, ignores armor)	6 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
-<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Corrosive touch</p>
-<p aid:pstyle="MonsterDescription">A very distinctive-looking creature. Something like a reddish cricket, I think. Long crickety legs, anyhow. Blind, too, as I understand it—they feel their way around with those long moth-looking tendrils. Feed that way, too. Sift through piles of metal for the choicest bits. That’s what they eat, don’t matter the type, neither. Their merest touch turns it all to rusted flakes. Magic lasts longer but under the scrutiny of a rust monster, it’s a foregone conclusion. Only the gods know where they came from, but they’re a curse if you value your belongings. <em>Instinct</em>: To decay</p>
-<ul><li>Turn metal to rust</li>
-<li>Gain strength from consuming metal</li></ul>
+<p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mind touch</p>
+<p aid:pstyle="MonsterDescription">A very distinctive-looking creature. Something like a white crab, I think. Long crickety legs, anyhow. Has several eyes as I understand it—but they use their feathery antennae to sense the minds of others. Feed that way, too. Sift through the memories of sentient beings for the choicest bits. That’s what they eat, don’t matter what race, neither. Their merest touch shatters the mind. Psions last longer but under the scrutiny of a gaj, it’s a foregone conclusion. Only the sorcerer-kings know where they came from, but they’re a curse if you value your sanity. <em>Instinct</em>: To feed</p>
+<ul><li>Destroy minds</li>
+<li>Gain strength from consuming mental energy</li></ul>
 <p aid:pstyle="MonsterName">Xorn	<span aid:cstyle="Tags">Solitary, Large, Construct</span></p>
 <p aid:pstyle="MonsterStats">Maw (d10 damage)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close, Reach</span></p>
