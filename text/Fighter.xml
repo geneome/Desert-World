@@ -22,7 +22,7 @@
 <h2>Starting Moves</h2>
 <div id="startingmoves"><p aid:pstyle="InstructionsAfterHeader">Choose a race and gain the corresponding move:</p>
 <div id="racialmoves"><h3 aid:pstyle="MoveName">Dwarf</h3>
-<p aid:pstyle="NoIndent">Choose a focus: a single goal that dominates your life. When you <strong>speak to someone who can forward your focus </strong>, you may parley with them using Con instead of Cha.</p>
+<p aid:pstyle="NoIndent">Choose a focus: a single goal that dominates your life. When you <strong>speak to someone who can forward your focus</strong>, you may parley with them using Con instead of Cha.</p>
 <h3 aid:pstyle="MoveName">Half-giant</h3>
 <p aid:pstyle="NoIndent">When you defy danger and <strong>use your immense size to your advantage</strong>, take +1.</p>
 <h3 aid:pstyle="MoveName">Human</h3>
