@@ -80,7 +80,7 @@
 <p aid:pstyle="MonsterDescription">If the chimera is the first step down a dark path, the manticore is a door that can’t be closed once it’s been opened. A lion, a scorpion, the wings of a drake. All difficult to obtain but not impossible and just animals, anyway. The last component, the hissing hateful face of the beast, is the ingredient that makes a manticore so cruel. Young or old, man or woman, it matters not but that they are human, living and breathing, married to the creature with twisted magic. All sense of who they are is lost, and maybe that’s a blessing, but the beast is born from human suffering. No wonder, then, that they’re all so eager to kill. <em>Instinct</em>: To kill</p>
 <ul><li>Poison them</li>
 <li>Rip something apart</li></ul>
-<p aid:pstyle="MonsterName">Anakore	<span aid:cstyle="Tags">Solitary, Construct</span></p>
+<p aid:pstyle="MonsterName">Anakore	<span aid:cstyle="Tags">Group, Construct</span></p>
 <p aid:pstyle="MonsterStats">Claws (d10 damage)	12 HP	2 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterDescription">Clawed monstrousities that burst from the ground to attack and drag their victims down with them just as quick, these creatures were thought to once be men who were touched by a terrible curse. <em>Instinct</em>: To hunt</p>
@@ -92,7 +92,7 @@
 <p aid:pstyle="MonsterDescription">Don’t go thinking that every creature not natural-born is a horrible abomination. Don’t imagine for a second that they’re all tentacles and screaming and blood or whatever. Take this noble beast, for example. Lovely thing, isn’t it? Hatching from little crystal eggs and bonded with their riders for life. There’s still some beauty in the world, mark my words. <em>Instinct</em>: To carry aloft</p>
 <ul><li>Carry a rider into the air</li>
 <li>Give their rider an advantage</li></ul>
-<p aid:pstyle="MonsterName">Gaj	<span aid:cstyle="Tags">Group, Construct</span></p>
+<p aid:pstyle="MonsterName">Gaj	<span aid:cstyle="Tags">Solitary, Construct</span></p>
 <p aid:pstyle="MonsterStats">Mind touch (d8 damage, ignores armor)	6 HP	3 Armor</p>
 <p aid:pstyle="MonsterStats"><span aid:cstyle="Tags">Close</span></p>
 <p aid:pstyle="MonsterQualities"><strong>Special Qualities:</strong> Mind touch</p>
